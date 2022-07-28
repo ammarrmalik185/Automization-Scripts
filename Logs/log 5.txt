@@ -1,0 +1,24 @@
+Log date and time : 2019-07-31 23:26:27.212464
+Source Folder : E:\Animes\Watched Random Episodes
+Save Folder   : E:\Animes\Sorted Animes
+Methord Used  : C:\Users\ParadoX\PycharmProjects\Auto Orgainzer\Algorithums\horriable subs algo.txt
+
+-------Process started------- :
+
+
+Moving from - E:\Animes\Watched Random Episodes : 
+Moving files to - Dumbbell Nan Kilo Moteru : 
+Moved file : [HorribleSubs] Dumbbell Nan Kilo Moteru - 05 [360p].mkv
+
+Moving files to - Isekai Cheat Magician : 
+Moved file : [HorribleSubs] Isekai Cheat Magician - 04 [480p].mkv
+
+Moving files to - Kanata no Astra : 
+Moved file : [HorribleSubs] Kanata no Astra - 05 [360p].mkv
+
+Moving files to - Maou-sama, Retry! : 
+Moved file : [HorribleSubs] Maou-sama, Retry! - 05 [360p].mkv
+
+ Total 4 files moved
+ Unable to move 0 files
+-------Process completed successfullty-------

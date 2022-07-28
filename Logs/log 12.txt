@@ -1,0 +1,89 @@
+Log date and time : 2019-10-15 19:21:08.303490
+Source Folder : E:\Animes\Watched Random Episodes
+Save Folder   : E:\Animes\Sorted Animes
+Methord Used  : Algorithums\horriable subs algo.txt
+
+-------Process started------- :
+
+
+Moving from - E:\Animes\Watched Random Episodes : 
+
+
+
+
+Making folder : Actors - Songs Connection
+Moving files to - Actors - Songs Connection : 
+Moved file : [HorribleSubs] Actors - Songs Connection - 01 [720p].mkv
+Moved file : [HorribleSubs] Actors - Songs Connection - 02 [720p].mkv
+
+Moving files to - Babylon : 
+Moved file : [HorribleSubs] Babylon - 02 [720p].mkv
+Moved file : [HorribleSubs] Babylon - 03 [720p].mkv
+
+Moving files to - Bem : 
+Moved file : [HorribleSubs] Bem - 12 [720p].mkv
+
+Moving files to - Ensemble Stars! : 
+Moved file : [HorribleSubs] Ensemble Stars! - 14 [720p].mkv
+
+Moving files to - Fairy Gone : 
+Moved file : [HorribleSubs] Fairy Gone - 14 [720p].mkv
+
+
+
+
+
+Making folder : Kabukicho Sherlock
+Moving files to - Kabukicho Sherlock : 
+Moved file : [HorribleSubs] Kabukicho Sherlock - 01 [720p].mkv
+
+
+
+
+
+Making folder : Kandagawa Jet Girls
+Moving files to - Kandagawa Jet Girls : 
+Moved file : [HorribleSubs] Kandagawa Jet Girls - 01 [720p].mkv
+
+
+
+
+
+Making folder : No Guns Life
+Moving files to - No Guns Life : 
+Moved file : [HorribleSubs] No Guns Life - 01 [720p].mkv
+
+
+
+
+
+Making folder : Rifle is Beautiful
+Moving files to - Rifle is Beautiful : 
+Moved file : [HorribleSubs] Rifle is Beautiful - 01 [720p].mkv
+
+Moving files to - Special 7 - Special Crime Investigation Unit : 
+Moved file : [HorribleSubs] Special 7 - Special Crime Investigation Unit - 02 [720p].mkv
+
+Moving files to - Stand My Heroes - Piece of Truth : 
+Moved file : [HorribleSubs] Stand My Heroes - Piece of Truth - 02 [720p].mkv
+
+Moving files to - Sword Art Online - Alicization - War of Underworld : 
+Moved file : [HorribleSubs] Sword Art Online - Alicization - War of Underworld - 01 [720p].mkv
+
+Moving files to - Vinland Saga : 
+Moved file : [HorribleSubs] Vinland Saga - 14 [720p].mkv
+
+Moving files to - Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! : 
+Moved file : [HorribleSubs] Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! - 02 [720p].mkv
+
+
+
+
+
+Making folder : ZX - Code Reunion
+Moving files to - ZX - Code Reunion : 
+Moved file : [HorribleSubs] ZX - Code Reunion - 01 [720p].mkv
+
+ Total 17 files moved
+ Unable to move 0 files
+-------Process completed successfullty-------

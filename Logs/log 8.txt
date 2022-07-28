@@ -1,0 +1,150 @@
+Log date and time : 2019-10-06 21:10:28.368537
+Source Folder : E:\Animes\Watched Random Episodes
+Save Folder   : E:\Animes\Sorted Animes
+Methord Used  : Algorithums\horriable subs algo.txt
+
+-------Process started------- :
+
+
+Moving from - E:\Animes\Watched Random Episodes : 
+
+
+
+
+Making folder : Arifureta Shokugyou de Sekai Saikyou
+Moving files to - Arifureta Shokugyou de Sekai Saikyou : 
+Moved file : [HorribleSubs] Arifureta Shokugyou de Sekai Saikyou - 12 [720p].mkv
+
+
+
+
+
+Making folder : Bem
+Moving files to - Bem : 
+Moved file : [HorribleSubs] Bem - 10 [720p].mkv
+
+
+
+
+
+Making folder : Black Clover
+Moving files to - Black Clover : 
+Moved file : [HorribleSubs] Black Clover - 103 [720p].mkv
+
+
+
+
+
+Making folder : Cop Craft
+Moving files to - Cop Craft : 
+Moved file : [HorribleSubs] Cop Craft - 12 [720p].mkv
+
+
+
+
+
+Making folder : DanMachi S2
+Moving files to - DanMachi S2 : 
+Moved file : [HorribleSubs] DanMachi S2 - 12 [720p].mkv
+
+
+
+
+
+Making folder : Dr. Stone
+Moving files to - Dr. Stone : 
+Moved file : [HorribleSubs] Dr. Stone - 13 [720p].mkv
+Moved file : [HorribleSubs] Dr. Stone - 14 [720p].mkv
+
+
+
+
+
+Making folder : Fairy Tail Final Season
+Moving files to - Fairy Tail Final Season : 
+Moved file : [HorribleSubs] Fairy Tail Final Season - 328 [720p].mkv
+
+
+
+
+
+Making folder : Granbelm
+Moving files to - Granbelm : 
+Moved file : [HorribleSubs] Granbelm - 13 [720p].mkv
+
+
+
+
+
+Making folder : Kimetsu no Yaiba
+Moving files to - Kimetsu no Yaiba : 
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 26 [720p].mkv
+
+
+
+
+
+Making folder : Kono Yo no Hate de Koi wo Utau Shoujo YU-NO
+Moving files to - Kono Yo no Hate de Koi wo Utau Shoujo YU-NO : 
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 26 [720p].mkv
+
+
+
+
+
+Making folder : Lord El-Melloi II Case Files
+Moving files to - Lord El-Melloi II Case Files : 
+Moved file : [HorribleSubs] Lord El-Melloi II Case Files - 13 [720p].mkv
+
+
+
+
+
+Making folder : Machikado Mazoku
+Moving files to - Machikado Mazoku : 
+Moved file : [HorribleSubs] Machikado Mazoku - 12 [720p].mkv
+
+
+
+
+
+Making folder : Okaa-san Online
+Moving files to - Okaa-san Online : 
+Moved file : [HorribleSubs] Okaa-san Online - 12 [720p].mkv
+
+
+
+
+
+Making folder : One Piece
+Moving files to - One Piece : 
+Moved file : [HorribleSubs] One Piece - 904 [720p].mkv
+Moved file : [HorribleSubs] One Piece - 905 [720p].mkv
+
+
+
+
+
+Making folder : Re Stage! Dream Days
+Moving files to - Re Stage! Dream Days : 
+Moved file : [HorribleSubs] Re Stage! Dream Days - 12 [720p].mkv
+
+
+
+
+
+Making folder : Toaru Kagaku no Accelerator
+Moving files to - Toaru Kagaku no Accelerator : 
+Moved file : [HorribleSubs] Toaru Kagaku no Accelerator - 12 [720p].mkv
+
+
+
+
+
+Making folder : Vinland Saga
+Moving files to - Vinland Saga : 
+Moved file : [HorribleSubs] Vinland Saga - 12 [720p].mkv
+
+ Total 19 files moved
+ Unable to move 0 files
+-------Process completed successfullty-------

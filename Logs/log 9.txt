@@ -1,0 +1,72 @@
+Log date and time : 2019-10-10 14:37:30.396871
+Source Folder : E:\Animes\Watched Random Episodes
+Save Folder   : E:\Animes\Sorted Animes
+Methord Used  : Algorithums\horriable subs algo.txt
+
+-------Process started------- :
+
+
+Moving from - E:\Animes\Watched Random Episodes : 
+Moving files to - Arifureta Shokugyou de Sekai Saikyou : 
+Moved file : [HorribleSubs] Arifureta Shokugyou de Sekai Saikyou - 13 [720p].mkv
+
+Moving files to - Bem : 
+Moved file : [HorribleSubs] Bem - 11 [720p].mkv
+
+Moving files to - Black Clover : 
+Moved file : [HorribleSubs] Black Clover - 104 [720p].mkv
+
+
+
+
+
+Making folder : Ensemble Stars!
+Moving files to - Ensemble Stars! : 
+Moved file : [HorribleSubs] Ensemble Stars! - 13 [720p].mkv
+
+
+
+
+
+Making folder : Fairy Gone
+Moving files to - Fairy Gone : 
+Moved file : [HorribleSubs] Fairy Gone - 13 [720p].mkv
+
+
+
+
+
+Making folder : Hataage! Kemono Michi
+Moving files to - Hataage! Kemono Michi : 
+Moved file : [HorribleSubs] Hataage! Kemono Michi - 02 [720p].mkv
+
+
+
+
+
+Making folder : Radiant S2
+Moving files to - Radiant S2 : 
+Moved file : [HorribleSubs] Radiant S2 - 02 [720p].mkv
+
+
+
+
+
+Making folder : Shinchou Yuusha
+Moving files to - Shinchou Yuusha : 
+Moved file : [HorribleSubs] Shinchou Yuusha - 02 [720p].mkv
+
+
+
+
+
+Making folder : Urashimasakatasen no Nichijou
+Moving files to - Urashimasakatasen no Nichijou : 
+Moved file : [HorribleSubs] Urashimasakatasen no Nichijou - 02 [720p].mkv
+
+Moving files to - Vinland Saga : 
+Moved file : [HorribleSubs] Vinland Saga - 13 [720p].mkv
+
+ Total 10 files moved
+ Unable to move 0 files
+-------Process completed successfullty-------

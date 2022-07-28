@@ -1,0 +1,34 @@
+Log date and time : 2019-07-30 01:18:19.590029
+
+-------Process started------- :
+
+
+Moving from - E:\Animes\Watched Random Episodes : 
+Moving files to - Araburu Kisetsu no Otome-domo yo. : 
+Moved file : [HorribleSubs] Araburu Kisetsu no Otome-domo yo. - 04 [480p].mkv
+
+Moving files to - Arifureta Shokugyou de Sekai Saikyou : 
+Moved file : [HorribleSubs] Arifureta Shokugyou de Sekai Saikyou - 04 [360p].mkv
+
+Moving files to - Bem : 
+Moved file : [HorribleSubs] Bem - 03 [360p].mkv
+
+Moving files to - Ensemble Stars! : 
+Moved file : [HorribleSubs] Ensemble Stars! - 04 [360p].mkv
+
+Moving files to - HenSuki : 
+Moved file : [HorribleSubs] HenSuki - 04 [360p].mkv
+
+Moving files to - Katsute Kami Datta Kemono-tachi e : 
+Moved file : [HorribleSubs] Katsute Kami Datta Kemono-tachi e - 05 [480p].mkv
+
+Moving files to - Kochoki - Wakaki Nobunaga : 
+Moved file : [HorribleSubs] Kochoki - Wakaki Nobunaga - 04 [360p].mkv
+
+Moving files to - One Piece : 
+Moved file : [HorribleSubs] One Piece - 895 [480p].mkv
+
+Moving files to - Re Stage! Dream Days : 
+Moved file : [HorribleSubs] Re Stage! Dream Days - 04 [480p].mkv
+
+-------Process completed successfullty-------

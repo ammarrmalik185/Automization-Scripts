@@ -1,0 +1,138 @@
+Log date and time : 2019-10-11 18:15:22.298994
+Source Folder : E:\Animes\Watched Random Episodes
+Save Folder   : E:\Animes\Sorted Animes
+Methord Used  : Algorithums\horriable subs algo.txt
+
+-------Process started------- :
+
+
+Moving from - E:\Animes\Watched Random Episodes : 
+
+
+
+
+Making folder : Ahiru no Sora
+Moving files to - Ahiru no Sora : 
+Moved file : [HorribleSubs] Ahiru no Sora - 01 [720p].mkv
+
+
+
+
+
+Making folder : Azur Lane
+Moving files to - Azur Lane : 
+Moved file : [HorribleSubs] Azur Lane - 01 [720p].mkv
+
+
+
+
+
+Making folder : Bokutachi wa Benkyou ga Dekinai S2
+Moving files to - Bokutachi wa Benkyou ga Dekinai S2 : 
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai S2 - 01 [720p].mkv
+
+
+
+
+
+Making folder : Choyoyu
+Moving files to - Choyoyu : 
+Moved file : [HorribleSubs] Choyoyu - 01 [720p].mkv
+
+
+
+
+
+Making folder : Chuubyou Gekihatsu Boy
+Moving files to - Chuubyou Gekihatsu Boy : 
+Moved file : [HorribleSubs] Chuubyou Gekihatsu Boy - 01 [720p].mkv
+
+
+
+
+
+Making folder : Fate Grand Order - Absolute Demonic Front Babylonia
+Moving files to - Fate Grand Order - Absolute Demonic Front Babylonia : 
+Moved file : [HorribleSubs] Fate Grand Order - Absolute Demonic Front Babylonia - 01 [720p].mkv
+
+Moving files to - Hataage! Kemono Michi : 
+Moved file : [HorribleSubs] Hataage! Kemono Michi - 01 [720p].mkv
+
+
+
+
+
+Making folder : Honzuki no Gekokujou
+Moving files to - Honzuki no Gekokujou : 
+Moved file : [HorribleSubs] Honzuki no Gekokujou - 01 [720p].mkv
+Moved file : [HorribleSubs] Honzuki no Gekokujou - 02 [720p].mkv
+
+
+
+
+
+Making folder : Keishichou Tokuhanka 007
+Moving files to - Keishichou Tokuhanka 007 : 
+Moved file : [HorribleSubs] Keishichou Tokuhanka 007 - 01 [720p].mkv
+
+
+
+
+
+Making folder : Mairimashita! Iruma-kun
+Moving files to - Mairimashita! Iruma-kun : 
+Moved file : [HorribleSubs] Mairimashita! Iruma-kun - 01 [720p].mkv
+
+
+
+
+
+Making folder : Null Peta
+Moving files to - Null Peta : 
+Moved file : [HorribleSubs] Null Peta - 01 [720p].mkv
+
+
+
+
+
+Making folder : Ore wo Suki nano wa Omae dake ka yo
+Moving files to - Ore wo Suki nano wa Omae dake ka yo : 
+Moved file : [HorribleSubs] Ore wo Suki nano wa Omae dake ka yo - 01 [720p].mkv
+Moved file : [HorribleSubs] Ore wo Suki nano wa Omae dake ka yo - 02 [720p].mkv
+
+Moving files to - Radiant S2 : 
+Moved file : [HorribleSubs] Radiant S2 - 01 [720p].mkv
+
+Moving files to - Shinchou Yuusha : 
+Moved file : [HorribleSubs] Shinchou Yuusha - 01 [720p].mkv
+
+
+
+
+
+Making folder : Special 7 - Special Crime Investigation Unit
+Moving files to - Special 7 - Special Crime Investigation Unit : 
+Moved file : [HorribleSubs] Special 7 - Special Crime Investigation Unit - 01 [720p].mkv
+
+
+
+
+
+Making folder : Sword Art Online - Alicization
+Moving files to - Sword Art Online - Alicization : 
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 24.5 [720p].mkv
+
+Moving files to - Urashimasakatasen no Nichijou : 
+Moved file : [HorribleSubs] Urashimasakatasen no Nichijou - 01 [720p].mkv
+
+
+
+
+
+Making folder : Val x Love
+Moving files to - Val x Love : 
+Moved file : [HorribleSubs] Val x Love - 01 [720p].mkv
+
+ Total 20 files moved
+ Unable to move 0 files
+-------Process completed successfullty-------

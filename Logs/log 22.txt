@@ -1,0 +1,263 @@
+Log date and time : 2020-04-18 03:01:52.319854
+Source Folder : D:\Animes\Watched Random Episodes
+Save Folder   : D:\Animes\Sorted Animes
+Methord Used  : Algorithums\horriable subs algo.txt
+
+-------Process started------- :
+
+
+Moving from - D:\Animes\Watched Random Episodes : 
+Moving files to - Ahiru no Sora : 
+Moved file : [HorribleSubs] Ahiru no Sora - 24 [720p].mkv
+Moved file : [HorribleSubs] Ahiru no Sora - 25 [720p].mkv
+Moved file : [HorribleSubs] Ahiru no Sora - 26 [720p].mkv
+
+Moving files to - Azur Lane : 
+Moved file : [HorribleSubs] Azur Lane - 12 [720p].mkv
+
+Moving files to - Black Clover : 
+Moved file : [HorribleSubs] Black Clover - 126 [720p].mkv
+Moved file : [HorribleSubs] Black Clover - 127 [720p].mkv
+Moved file : [HorribleSubs] Black Clover - 128 [720p].mkv
+Moved file : [HorribleSubs] Black Clover - 129 [720p].mkv
+Moved file : [HorribleSubs] Black Clover - 130 [720p].mkv
+
+Moving files to - Boku no Hero Academia : 
+Moved file : [HorribleSubs] Boku no Hero Academia - 86 [720p].mkv
+Moved file : [HorribleSubs] Boku no Hero Academia - 87 [720p].mkv
+Moved file : [HorribleSubs] Boku no Hero Academia - 88 [720p].mkv
+
+Moving files to - Boku no Tonari ni Ankoku Hakaishin ga Imasu : 
+Moved file : [HorribleSubs] Boku no Tonari ni Ankoku Hakaishin ga Imasu - 11 [720p].mkv
+Moved file : [HorribleSubs] Boku no Tonari ni Ankoku Hakaishin ga Imasu - 12 [720p].mkv
+
+
+
+
+
+Making folder : Bungo to Alchemist - Shinpan no Haguruma
+Moving files to - Bungo to Alchemist - Shinpan no Haguruma : 
+Moved file : [HorribleSubs] Bungo to Alchemist - Shinpan no Haguruma - 01 [720p].mkv
+Moved file : [HorribleSubs] Bungo to Alchemist - Shinpan no Haguruma - 02 [720p].mkv
+
+Moving files to - Darwin's Game : 
+Moved file : [HorribleSubs] Darwin's Game - 11 [720p].mkv
+
+Moving files to - Fate Grand Order - Absolute Demonic Front Babylonia : 
+Moved file : [HorribleSubs] Fate Grand Order - Absolute Demonic Front Babylonia - 21 [720p].mkv
+
+
+
+
+
+Making folder : Fruits Basket S2 (2019)
+Moving files to - Fruits Basket S2 (2019) : 
+Moved file : [HorribleSubs] Fruits Basket S2 (2019) - 01 [720p].mkv
+Moved file : [HorribleSubs] Fruits Basket S2 (2019) - 02 [720p].mkv
+
+
+
+
+
+Making folder : Gleipnir
+Moving files to - Gleipnir : 
+Moved file : [HorribleSubs] Gleipnir - 01 [720p].mkv
+Moved file : [HorribleSubs] Gleipnir - 02 [720p].mkv
+
+
+
+
+
+Making folder : Hachi-nan tte, Sore wa Nai deshou!
+Moving files to - Hachi-nan tte, Sore wa Nai deshou! : 
+Moved file : [HorribleSubs] Hachi-nan tte, Sore wa Nai deshou! - 01 [720p].mkv
+Moved file : [HorribleSubs] Hachi-nan tte, Sore wa Nai deshou! - 02 [720p].mkv
+
+Moving files to - Haikyuu!! S4 : 
+Moved file : [HorribleSubs] Haikyuu!! S4 - 11 [720p].mkv
+Moved file : [HorribleSubs] Haikyuu!! S4 - 12 [720p].mkv
+Moved file : [HorribleSubs] Haikyuu!! S4 - 13 [720p].mkv
+
+
+
+
+
+Making folder : Hamefura
+Moving files to - Hamefura : 
+Moved file : [HorribleSubs] Hamefura - 01 [720p].mkv
+Moved file : [HorribleSubs] Hamefura - 02 [720p].mkv
+
+Moving files to - Hatena Illusion : 
+Moved file : [HorribleSubs] Hatena Illusion - 10 [720p].mkv
+Moved file : [HorribleSubs] Hatena Illusion - 11 [720p].mkv
+
+Moving files to - Heya Camp : 
+Moved file : [HorribleSubs] Heya Camp - 12 [720p].mkv
+
+
+
+
+
+Making folder : Honzuki no Gekokujou
+Moving files to - Honzuki no Gekokujou : 
+Moved file : [HorribleSubs] Honzuki no Gekokujou - 15 [720p].mkv
+Moved file : [HorribleSubs] Honzuki no Gekokujou - 16 [720p].mkv
+
+Moving files to - ID INVADED : 
+Moved file : [HorribleSubs] ID INVADED - 13 [720p].mkv
+
+Moving files to - Infinite Dendrogram : 
+Moved file : [HorribleSubs] Infinite Dendrogram - 10 [720p].mkv
+Moved file : [HorribleSubs] Infinite Dendrogram - 11 [720p].mkv
+Moved file : [HorribleSubs] Infinite Dendrogram - 12 [720p].mkv
+
+Moving files to - Isekai Quartet S2 : 
+Moved file : [HorribleSubs] Isekai Quartet S2 - 10 [720p].mkv
+Moved file : [HorribleSubs] Isekai Quartet S2 - 11 [720p].mkv
+Moved file : [HorribleSubs] Isekai Quartet S2 - 12 [720p].mkv
+
+
+
+
+
+Making folder : Ishuzoku Reviewers
+Moving files to - Ishuzoku Reviewers : 
+Moved file : [HorribleSubs] Ishuzoku Reviewers - 10 [720p].mkv
+Moved file : [HorribleSubs] Ishuzoku Reviewers - 11 [720p].mkv
+Moved file : [HorribleSubs] Ishuzoku Reviewers - 12 [720p].mkv
+
+Moving files to - Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu : 
+Moved file : [HorribleSubs] Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu - 11 [720p].mkv
+Moved file : [HorribleSubs] Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu - 12 [720p].mkv
+
+Moving files to - Jibaku Shounen Hanako-kun : 
+Moved file : [HorribleSubs] Jibaku Shounen Hanako-kun - 11 [720p].mkv
+Moved file : [HorribleSubs] Jibaku Shounen Hanako-kun - 12 [720p].mkv
+
+Moving files to - Kabukicho Sherlock : 
+Moved file : [HorribleSubs] Kabukicho Sherlock - 23 [720p].mkv
+Moved file : [HorribleSubs] Kabukicho Sherlock - 24 [720p].mkv
+
+
+
+
+
+Making folder : Kakushigoto
+Moving files to - Kakushigoto : 
+Moved file : [HorribleSubs] Kakushigoto - 02 [720p].mkv
+
+
+
+
+
+Making folder : Kono Subarashii Sekai ni Shukufuku wo! Movie
+Moving files to - Kono Subarashii Sekai ni Shukufuku wo! Movie : 
+Moved file : [HorribleSubs] Kono Subarashii Sekai ni Shukufuku wo! Movie - 00 [720p].mkv
+
+Moving files to - Kyokou Suiri : 
+Moved file : [HorribleSubs] Kyokou Suiri - 11 [720p].mkv
+Moved file : [HorribleSubs] Kyokou Suiri - 12 [720p].mkv
+
+
+
+
+
+Making folder : Listeners
+Moving files to - Listeners : 
+Moved file : [HorribleSubs] Listeners - 01 [720p].mkv
+Moved file : [HorribleSubs] Listeners - 02 [720p].mkv
+
+Moving files to - Majutsushi Orphen Hagure Tabi : 
+Moved file : [HorribleSubs] Majutsushi Orphen Hagure Tabi - 11 [720p].mkv
+Moved file : [HorribleSubs] Majutsushi Orphen Hagure Tabi - 12 [720p].mkv
+Moved file : [HorribleSubs] Majutsushi Orphen Hagure Tabi - 13 [720p].mkv
+
+Moving files to - Nekopara : 
+Moved file : [HorribleSubs] Nekopara - 11 [720p].mkv
+Moved file : [HorribleSubs] Nekopara - 12 [720p].mkv
+
+Moving files to - One Piece : 
+Moved file : [HorribleSubs] One Piece - 925 [720p].mkv
+Moved file : [HorribleSubs] One Piece - 926 [720p].mkv
+Moved file : [HorribleSubs] One Piece - 927 [720p].mkv
+Moved file : [HorribleSubs] One Piece - 928 [720p].mkv
+
+Moving files to - Pet : 
+Moved file : [HorribleSubs] Pet - 12 [720p].mkv
+Moved file : [HorribleSubs] Pet - 13 [720p].mkv
+
+Moving files to - Plunderer : 
+Moved file : [HorribleSubs] Plunderer - 11 [720p].mkv
+Moved file : [HorribleSubs] Plunderer - 12 [360p].mkv
+Moved file : [HorribleSubs] Plunderer - 13 [720p].mkv
+
+
+
+
+
+Making folder : Princess Connect! Re Dive
+Moving files to - Princess Connect! Re Dive : 
+Moved file : [HorribleSubs] Princess Connect! Re Dive - 01 [720p].mkv
+Moved file : [HorribleSubs] Princess Connect! Re Dive - 02 [720p].mkv
+
+Moving files to - Re Zero kara Hajimeru Isekai Seikatsu - Director's Cut : 
+Moved file : [HorribleSubs] Re Zero kara Hajimeru Isekai Seikatsu - Director's Cut - 11 [720p].mkv
+Moved file : [HorribleSubs] Re Zero kara Hajimeru Isekai Seikatsu - Director's Cut - 12 [720p].mkv
+Moved file : [HorribleSubs] Re Zero kara Hajimeru Isekai Seikatsu - Director's Cut - 13 [720p].mkv
+
+Moving files to - Runway de Waratte : 
+Moved file : [HorribleSubs] Runway de Waratte - 11 [720p].mkv
+Moved file : [HorribleSubs] Runway de Waratte - 12 [720p].mkv
+
+
+
+
+
+Making folder : Shachou, Battle no Jikan desu!
+Moving files to - Shachou, Battle no Jikan desu! : 
+Moved file : [HorribleSubs] Shachou, Battle no Jikan desu! - 01 [720p].mkv
+Moved file : [HorribleSubs] Shachou, Battle no Jikan desu! - 02 [720p].mkv
+
+
+
+
+
+Making folder : Shironeko Project - Zero Chronicle
+Moving files to - Shironeko Project - Zero Chronicle : 
+Moved file : [HorribleSubs] Shironeko Project - Zero Chronicle - 01 [720p].mkv
+Moved file : [HorribleSubs] Shironeko Project - Zero Chronicle - 02 [720p].mkv
+
+Moving files to - Show By Rock!! Mashumairesh!! : 
+Moved file : [HorribleSubs] Show By Rock!! Mashumairesh!! - 11 [720p].mkv
+Moved file : [HorribleSubs] Show By Rock!! Mashumairesh!! - 12 [720p].mkv
+
+Moving files to - Somali to Mori no Kamisama : 
+Moved file : [HorribleSubs] Somali to Mori no Kamisama - 11 [720p].mkv
+Moved file : [HorribleSubs] Somali to Mori no Kamisama - 12 [720p].mkv
+
+
+
+
+
+Making folder : Toaru Kagaku no Railgun T
+Moving files to - Toaru Kagaku no Railgun T : 
+Moved file : [HorribleSubs] Toaru Kagaku no Railgun T - 08 [720p].mkv
+Moved file : [HorribleSubs] Toaru Kagaku no Railgun T - 09 [720p].mkv
+Moved file : [HorribleSubs] Toaru Kagaku no Railgun T - 10 [720p].mkv
+Moved file : [HorribleSubs] Toaru Kagaku no Railgun T - 11 [720p].mkv
+
+
+
+
+
+Making folder : Tower of God
+Moving files to - Tower of God : 
+Moved file : [HorribleSubs] Tower of God - 01 [720p].mkv
+Moved file : [HorribleSubs] Tower of God - 02 [720p].mkv
+
+Moving files to - Yatogame-chan Kansatsu Nikki S2 : 
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki S2 - 12 [720p].mkv
+
+ Total 92 files moved
+ Unable to move 0 files
+-------Process completed successfullty-------

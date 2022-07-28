@@ -1,0 +1,43 @@
+Log date and time : 2019-07-29 16:44:34.630489
+
+-------Process started------- :
+
+
+Moving from - E:\Animes\Watched Random Episodes : 
+Moving files to - Dr. Stone : 
+Moved file : [HorribleSubs] Dr. Stone - 04 [480p].mkv
+
+Moving files to - Enen no Shouboutai : 
+Moved file : [HorribleSubs] Enen no Shouboutai - 03 [480p].mkv
+
+Moving files to - Fairy Tail Final Season : 
+Moved file : [HorribleSubs] Fairy Tail Final Season - 319 [480p].mkv
+
+Moving files to - Fruits Basket (2019) : 
+Moved file : [HorribleSubs] Fruits Basket (2019) - 17 [480p].mkv
+
+Moving files to - Granbelm : 
+Moved file : [HorribleSubs] Granbelm - 04 [480p].mkv
+
+Moving files to - Joshikousei no Mudazukai : 
+Moved file : [HorribleSubs] Joshikousei no Mudazukai - 04 [480p].mkv
+
+Moving files to - Kimetsu no Yaiba : 
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 17 [480p].mkv
+
+Moving files to - Lord El-Melloi II Case Files : 
+Moved file : [HorribleSubs] Lord El-Melloi II Case Files - 04 [480p].mkv
+
+Moving files to - Nakanohito Genome [Jikkyouchuu] : 
+Moved file : [HorribleSubs] Nakanohito Genome [Jikkyouchuu] - 04 [360p].mkv
+
+Moving files to - Okaa-san Online : 
+Moved file : [HorribleSubs] Okaa-san Online - 03 [480p].mkv
+
+Moving files to - Toaru Kagaku no Accelerator : 
+Moved file : [HorribleSubs] Toaru Kagaku no Accelerator - 03 [480p].mkv
+
+Moving files to - Vinland Saga : 
+Moved file : [HorribleSubs] Vinland Saga - 04 [480p].mkv
+
+-------Process completed successfullty-------

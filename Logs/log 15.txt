@@ -1,0 +1,212 @@
+Log date and time : 2019-12-14 00:18:19.200803
+Source Folder : E:\Animes\Watched Random Episodes
+Save Folder   : E:\Animes\Sorted Animes
+Methord Used  : Algorithums\horriable subs algo.txt
+
+-------Process started------- :
+
+
+Moving from - E:\Animes\Watched Random Episodes : 
+Moving files to - Actors - Songs Connection : 
+Moved file : [HorribleSubs] Actors - Songs Connection - 07 [720p].mkv
+Moved file : [HorribleSubs] Actors - Songs Connection - 08 [720p].mkv
+Moved file : [HorribleSubs] Actors - Songs Connection - 09 [720p].mkv
+Moved file : [HorribleSubs] Actors - Songs Connection - 10 [720p].mkv
+
+Moving files to - Ahiru no Sora : 
+Moved file : [HorribleSubs] Ahiru no Sora - 08 [720p].mkv
+Moved file : [HorribleSubs] Ahiru no Sora - 09 [720p].mkv
+Moved file : [HorribleSubs] Ahiru no Sora - 10 [720p].mkv
+Moved file : [HorribleSubs] Ahiru no Sora - 11 [720p].mkv
+
+Moving files to - Assassins Pride : 
+Moved file : [HorribleSubs] Assassins Pride - 07 [720p].mkv
+Moved file : [HorribleSubs] Assassins Pride - 08 [720p].mkv
+Moved file : [HorribleSubs] Assassins Pride - 09 [720p].mkv
+
+Moving files to - Azur Lane : 
+Moved file : [HorribleSubs] Azur Lane - 07 [720p].mkv
+Moved file : [HorribleSubs] Azur Lane - 08 [720p].mkv
+Moved file : [HorribleSubs] Azur Lane - 09 [720p].mkv
+
+Moving files to - Babylon : 
+Moved file : [HorribleSubs] Babylon - 07 [720p].mkv
+Moved file : [HorribleSubs] Fate Grand Order - Absolute Demonic Front Babylonia - 08 [720p].mkv
+Moved file : [HorribleSubs] Fate Grand Order - Absolute Demonic Front Babylonia - 09 [720p].mkv
+Moved file : [HorribleSubs] Fate Grand Order - Absolute Demonic Front Babylonia - 10 [720p].mkv
+
+Moving files to - Black Clover : 
+Moved file : [HorribleSubs] Black Clover - 110 [720p].mkv
+Moved file : [HorribleSubs] Black Clover - 111 [720p].mkv
+Moved file : [HorribleSubs] Black Clover - 112 [720p].mkv
+Moved file : [HorribleSubs] Black Clover - 113 [720p].mkv
+
+Moving files to - Boku no Hero Academia : 
+Moved file : [HorribleSubs] Boku no Hero Academia - 69 [720p].mkv
+Moved file : [HorribleSubs] Boku no Hero Academia - 70 [720p].mkv
+Moved file : [HorribleSubs] Boku no Hero Academia - 71 [720p].mkv
+
+Moving files to - Bokutachi wa Benkyou ga Dekinai S2 : 
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai S2 - 07 [720p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai S2 - 08 [720p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai S2 - 09 [720p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai S2 - 10 [720p].mkv
+
+Moving files to - Choyoyu : 
+Moved file : [HorribleSubs] Choyoyu - 08 [720p].mkv
+Moved file : [HorribleSubs] Choyoyu - 09 [720p].mkv
+Moved file : [HorribleSubs] Choyoyu - 10 [720p].mkv
+
+Moving files to - Chuubyou Gekihatsu Boy : 
+Moved file : [HorribleSubs] Chuubyou Gekihatsu Boy - 08 [720p].mkv
+Moved file : [HorribleSubs] Chuubyou Gekihatsu Boy - 09 [720p].mkv
+Moved file : [HorribleSubs] Chuubyou Gekihatsu Boy - 10 [720p].mkv
+
+Moving files to - Dr. Stone : 
+Moved file : [HorribleSubs] Dr. Stone - 21 [720p].mkv
+Moved file : [HorribleSubs] Dr. Stone - 22 [720p].mkv
+Moved file : [HorribleSubs] Dr. Stone - 23 [720p].mkv
+
+Moving files to - Enen no Shouboutai : 
+Moved file : [HorribleSubs] Enen no Shouboutai - 18 [720p].mkv
+Moved file : [HorribleSubs] Enen no Shouboutai - 19 [720p].mkv
+Moved file : [HorribleSubs] Enen no Shouboutai - 20 [720p].mkv
+
+Moving files to - Ensemble Stars! : 
+Moved file : [HorribleSubs] Ensemble Stars! - 19 [720p].mkv
+Moved file : [HorribleSubs] Ensemble Stars! - 20 [720p].mkv
+Moved file : [HorribleSubs] Ensemble Stars! - 21 [720p].mkv
+Moved file : [HorribleSubs] Ensemble Stars! - 22 [720p].mkv
+
+Moving files to - Fairy Gone : 
+Moved file : [HorribleSubs] Fairy Gone - 19 [720p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 20 [720p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 21 [720p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 22 [720p].mkv
+
+Moving files to - Fate Grand Order - Absolute Demonic Front Babylonia : 
+Cannot move file : [HorribleSubs] Fate Grand Order - Absolute Demonic Front Babylonia - 08 [720p].mkv
+Cannot move file : [HorribleSubs] Fate Grand Order - Absolute Demonic Front Babylonia - 09 [720p].mkv
+Cannot move file : [HorribleSubs] Fate Grand Order - Absolute Demonic Front Babylonia - 10 [720p].mkv
+
+Moving files to - Hataage! Kemono Michi : 
+Moved file : [HorribleSubs] Hataage! Kemono Michi - 08 [720p].mkv
+Moved file : [HorribleSubs] Hataage! Kemono Michi - 09 [720p].mkv
+Moved file : [HorribleSubs] Hataage! Kemono Michi - 10 [720p].mkv
+Moved file : [HorribleSubs] Hataage! Kemono Michi - 11 [720p].mkv
+
+Moving files to - Honzuki no Gekokujou : 
+Moved file : [HorribleSubs] Honzuki no Gekokujou - 08 [720p].mkv
+Moved file : [HorribleSubs] Honzuki no Gekokujou - 09 [720p].mkv
+Moved file : [HorribleSubs] Honzuki no Gekokujou - 11 [720p].mkv
+
+Moving files to - Kabukicho Sherlock : 
+Moved file : [HorribleSubs] Kabukicho Sherlock - 07 [720p].mkv
+Moved file : [HorribleSubs] Kabukicho Sherlock - 08 [720p].mkv
+Moved file : [HorribleSubs] Kabukicho Sherlock - 09 [720p].mkv
+
+Moving files to - Kandagawa Jet Girls : 
+Moved file : [HorribleSubs] Kandagawa Jet Girls - 06 [720p].mkv
+Moved file : [HorribleSubs] Kandagawa Jet Girls - 07 [720p].mkv
+Moved file : [HorribleSubs] Kandagawa Jet Girls - 08 [720p].mkv
+Moved file : [HorribleSubs] Kandagawa Jet Girls - 09 [720p].mkv
+
+Moving files to - Mairimashita! Iruma-kun : 
+Moved file : [HorribleSubs] Mairimashita! Iruma-kun - 08 [720p].mkv
+Moved file : [HorribleSubs] Mairimashita! Iruma-kun - 09 [720p].mkv
+Moved file : [HorribleSubs] Mairimashita! Iruma-kun - 10 [720p].mkv
+
+Moving files to - No Guns Life : 
+Moved file : [HorribleSubs] No Guns Life - 07 [720p].mkv
+Moved file : [HorribleSubs] No Guns Life - 08 [720p].mkv
+Moved file : [HorribleSubs] No Guns Life - 09 [720p].mkv
+
+Moving files to - Null Peta : 
+Moved file : [HorribleSubs] Null Peta - 08 [720p].mkv
+Moved file : [HorribleSubs] Null Peta - 09 [720p].mkv
+Moved file : [HorribleSubs] Null Peta - 10 [720p].mkv
+
+Moving files to - One Piece : 
+Moved file : [HorribleSubs] One Piece - 910 [720p].mkv
+Moved file : [HorribleSubs] One Piece - 911 [720p].mkv
+Moved file : [HorribleSubs] One Piece - 912 [720p].mkv
+Moved file : [HorribleSubs] One Piece - 913 [720p].mkv
+
+Moving files to - Ore wo Suki nano wa Omae dake ka yo : 
+Moved file : [HorribleSubs] Ore wo Suki nano wa Omae dake ka yo - 08 [720p].mkv
+Moved file : [HorribleSubs] Ore wo Suki nano wa Omae dake ka yo - 09 [720p].mkv
+Moved file : [HorribleSubs] Ore wo Suki nano wa Omae dake ka yo - 09.5 [720p].mkv
+Moved file : [HorribleSubs] Ore wo Suki nano wa Omae dake ka yo - 10 [720p].mkv
+
+Moving files to - PSYCHO-PASS 3 : 
+Moved file : [HorribleSubs] PSYCHO-PASS 3 - 05 [720p].mkv
+Moved file : [HorribleSubs] PSYCHO-PASS 3 - 06 [720p].mkv
+Moved file : [HorribleSubs] PSYCHO-PASS 3 - 07 [720p].mkv
+
+Moving files to - Radiant S2 : 
+Moved file : [HorribleSubs] Radiant S2 - 08 [720p].mkv
+Moved file : [HorribleSubs] Radiant S2 - 09 [720p].mkv
+Moved file : [HorribleSubs] Radiant S2 - 10 [720p].mkv
+Moved file : [HorribleSubs] Radiant S2 - 11 [720p].mkv
+
+Moving files to - Rifle is Beautiful : 
+Moved file : [HorribleSubs] Rifle is Beautiful - 06 [720p].mkv
+Moved file : [HorribleSubs] Rifle is Beautiful - 07 [720p].mkv
+Moved file : [HorribleSubs] Rifle is Beautiful - 07.5 [720p].mkv
+Moved file : [HorribleSubs] Rifle is Beautiful - 08 [720p].mkv
+
+Moving files to - Shinchou Yuusha : 
+Moved file : [HorribleSubs] Shinchou Yuusha - 07 [720p].mkv
+Moved file : [HorribleSubs] Shinchou Yuusha - 08 [720p].mkv
+Moved file : [HorribleSubs] Shinchou Yuusha - 09 [720p].mkv
+
+Moving files to - Special 7 - Special Crime Investigation Unit : 
+Moved file : [HorribleSubs] Special 7 - Special Crime Investigation Unit - 07 [720p].mkv
+Moved file : [HorribleSubs] Special 7 - Special Crime Investigation Unit - 08 [720p].mkv
+Moved file : [HorribleSubs] Special 7 - Special Crime Investigation Unit - 09 [720p].mkv
+
+Moving files to - Stand My Heroes - Piece of Truth : 
+Moved file : [HorribleSubs] Stand My Heroes - Piece of Truth - 07 [720p].mkv
+Moved file : [HorribleSubs] Stand My Heroes - Piece of Truth - 08 [720p].mkv
+Moved file : [HorribleSubs] Stand My Heroes - Piece of Truth - 09 [720p].mkv
+Moved file : [HorribleSubs] Stand My Heroes - Piece of Truth - 10 [720p].mkv
+
+Moving files to - Sword Art Online - Alicization - War of Underworld : 
+Moved file : [HorribleSubs] Sword Art Online - Alicization - War of Underworld - 06 [720p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - War of Underworld - 07 [720p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - War of Underworld - 08 [720p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - War of Underworld - 09 [720p].mkv
+
+Moving files to - Urashimasakatasen no Nichijou : 
+Moved file : [HorribleSubs] Urashimasakatasen no Nichijou - 08 [720p].mkv
+Moved file : [HorribleSubs] Urashimasakatasen no Nichijou - 09 [720p].mkv
+Moved file : [HorribleSubs] Urashimasakatasen no Nichijou - 10 [720p].mkv
+Moved file : [HorribleSubs] Urashimasakatasen no Nichijou - 11 [720p].mkv
+
+Moving files to - Val x Love : 
+Moved file : [HorribleSubs] Val x Love - 07 [720p].mkv
+Moved file : [HorribleSubs] Val x Love - 08 [720p].mkv
+Moved file : [HorribleSubs] Val x Love - 09 [720p].mkv
+Moved file : [HorribleSubs] Val x Love - 10 [720p].mkv
+
+Moving files to - Vinland Saga : 
+Moved file : [HorribleSubs] Vinland Saga - 18 [720p].mkv
+Moved file : [HorribleSubs] Vinland Saga - 19 [720p].mkv
+Moved file : [HorribleSubs] Vinland Saga - 20 [720p].mkv
+Moved file : [HorribleSubs] Vinland Saga - 21 [720p].mkv
+
+Moving files to - Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! : 
+Moved file : [HorribleSubs] Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! - 07 [720p].mkv
+Moved file : [HorribleSubs] Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! - 08 [720p].mkv
+Moved file : [HorribleSubs] Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! - 09 [720p].mkv
+Moved file : [HorribleSubs] Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! - 10 [720p].mkv
+
+Moving files to - ZX - Code Reunion : 
+Moved file : [HorribleSubs] ZX - Code Reunion - 07 [720p].mkv
+Moved file : [HorribleSubs] ZX - Code Reunion - 08 [720p].mkv
+Moved file : [HorribleSubs] ZX - Code Reunion - 09 [720p].mkv
+Moved file : [HorribleSubs] ZX - Code Reunion - 10 [720p].mkv
+
+ Total 125 files moved
+ Unable to move 3 files
+-------Process completed successfullty-------

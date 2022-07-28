@@ -1,0 +1,194 @@
+Log date and time : 2020-04-28 10:11:48.604570
+Source Folder : D:\Animes\Watched Random Episodes
+Save Folder   : D:\Animes\Sorted Animes
+Methord Used  : Algorithums\horriable subs algo.txt
+
+-------Process started------- :
+
+
+Moving from - D:\Animes\Watched Random Episodes : 
+
+
+
+
+Making folder : Ahiru no Sora
+Moving files to - Ahiru no Sora : 
+Moved file : [HorribleSubs] Ahiru no Sora - 27 [720p].mkv
+Moved file : [HorribleSubs] Ahiru no Sora - 28 [720p].mkv
+
+
+
+
+
+Making folder : Appare-Ranman!
+Moving files to - Appare-Ranman! : 
+Moved file : [HorribleSubs] Appare-Ranman! - 01 [720p].mkv
+Moved file : [HorribleSubs] Appare-Ranman! - 02 [720p].mkv
+Moved file : [HorribleSubs] Appare-Ranman! - 03 [720p].mkv
+
+
+
+
+
+Making folder : Black Clover
+Moving files to - Black Clover : 
+Moved file : [HorribleSubs] Black Clover - 131 [720p].mkv
+
+
+
+
+
+Making folder : Bungo to Alchemist - Shinpan no Haguruma
+Moving files to - Bungo to Alchemist - Shinpan no Haguruma : 
+Moved file : [HorribleSubs] Bungo to Alchemist - Shinpan no Haguruma - 03 [720p].mkv
+
+
+
+
+
+Making folder : Fruits Basket S2 (2019)
+Moving files to - Fruits Basket S2 (2019) : 
+Moved file : [HorribleSubs] Fruits Basket S2 (2019) - 03 [720p].mkv
+
+
+
+
+
+Making folder : Fugou Keiji Balance - UNLIMITED
+Moving files to - Fugou Keiji Balance - UNLIMITED : 
+Moved file : [HorribleSubs] Fugou Keiji Balance - UNLIMITED - 01 [720p].mkv
+Moved file : [HorribleSubs] Fugou Keiji Balance - UNLIMITED - 02 [720p].mkv
+
+
+
+
+
+Making folder : Gleipnir
+Moving files to - Gleipnir : 
+Moved file : [HorribleSubs] Gleipnir - 03 [720p].mkv
+Moved file : [HorribleSubs] Gleipnir - 04 [720p].mkv
+
+
+
+
+
+Making folder : Hachi-nan tte, Sore wa Nai deshou!
+Moving files to - Hachi-nan tte, Sore wa Nai deshou! : 
+Moved file : [HorribleSubs] Hachi-nan tte, Sore wa Nai deshou! - 03 [720p].mkv
+Moved file : [HorribleSubs] Hachi-nan tte, Sore wa Nai deshou! - 04 [720p].mkv
+
+
+
+
+
+Making folder : Hamefura
+Moving files to - Hamefura : 
+Moved file : [HorribleSubs] Hamefura - 03 [720p].mkv
+Moved file : [HorribleSubs] Hamefura - 04 [720p].mkv
+
+
+
+
+
+Making folder : Honzuki no Gekokujou
+Moving files to - Honzuki no Gekokujou : 
+Moved file : [HorribleSubs] Honzuki no Gekokujou - 17 [720p].mkv
+Moved file : [HorribleSubs] Honzuki no Gekokujou - 18 [720p].mkv
+
+
+
+
+
+Making folder : Infinite Dendrogram
+Moving files to - Infinite Dendrogram : 
+Moved file : [HorribleSubs] Infinite Dendrogram - 13 [720p].mkv
+
+
+
+
+
+Making folder : Kaguya-sama wa Kokurasetai S2
+Moving files to - Kaguya-sama wa Kokurasetai S2 : 
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai S2 - 01 [720p].mkv
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai S2 - 02 [720p].mkv
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai S2 - 03 [720p].mkv
+
+
+
+
+
+Making folder : Kakushigoto
+Moving files to - Kakushigoto : 
+Moved file : [HorribleSubs] Kakushigoto - 03 [720p].mkv
+Moved file : [HorribleSubs] Kakushigoto - 04 [720p].mkv
+
+
+
+
+
+Making folder : Listeners
+Moving files to - Listeners : 
+Moved file : [HorribleSubs] Listeners - 03 [720p].mkv
+Moved file : [HorribleSubs] Listeners - 04 [720p].mkv
+
+
+
+
+
+Making folder : One Piece
+Moving files to - One Piece : 
+Moved file : [HorribleSubs] One Piece - 929 [720p].mkv
+
+
+
+
+
+Making folder : Plunderer
+Moving files to - Plunderer : 
+Moved file : [HorribleSubs] Plunderer - 14 [720p].mkv
+Moved file : [HorribleSubs] Plunderer - 15 [720p].mkv
+
+
+
+
+
+Making folder : Princess Connect! Re Dive
+Moving files to - Princess Connect! Re Dive : 
+Moved file : [HorribleSubs] Princess Connect! Re Dive - 03 [720p].mkv
+
+
+
+
+
+Making folder : Shachou, Battle no Jikan desu!
+Moving files to - Shachou, Battle no Jikan desu! : 
+Moved file : [HorribleSubs] Shachou, Battle no Jikan desu! - 03 [720p].mkv
+
+
+
+
+
+Making folder : Shironeko Project - Zero Chronicle
+Moving files to - Shironeko Project - Zero Chronicle : 
+Moved file : [HorribleSubs] Shironeko Project - Zero Chronicle - 03 [720p].mkv
+
+
+
+
+
+Making folder : Toaru Kagaku no Railgun T
+Moving files to - Toaru Kagaku no Railgun T : 
+Moved file : [HorribleSubs] Toaru Kagaku no Railgun T - 12 [720p].mkv
+
+
+
+
+
+Making folder : Tower of God
+Moving files to - Tower of God : 
+Moved file : [HorribleSubs] Tower of God - 03 [720p].mkv
+Moved file : [HorribleSubs] Tower of God - 04 [720p].mkv
+
+ Total 35 files moved
+ Unable to move 0 files
+-------Process completed successfullty-------

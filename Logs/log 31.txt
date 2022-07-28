@@ -1,0 +1,79 @@
+Log date and time : 2020-09-29 00:36:13.084782
+Source Folder : D:\Animes\Watched Random Episodes
+Save Folder   : D:\Animes\Sorted Animes
+Methord Used  : Algorithums\horriable subs algo.txt
+
+-------Process started------- :
+
+
+Moving from - D:\Animes\Watched Random Episodes : 
+Moving files to - Ahiru no Sora : 
+Moved file : [HorribleSubs] Ahiru no Sora - 49 [720p].mkv
+
+Moving files to - Appare-Ranman! : 
+Moved file : [HorribleSubs] Appare-Ranman! - 13 [720p].mkv
+
+Moving files to - Black Clover : 
+Moved file : [HorribleSubs] Black Clover - 144 [720p].mkv
+
+Moving files to - Deca-Dence : 
+Moved file : [HorribleSubs] Deca-Dence - 12 [720p].mkv
+
+Moving files to - Enen no Shouboutai S2 : 
+Moved file : [HorribleSubs] Enen no Shouboutai S2 - 13 [720p].mkv
+
+Moving files to - Fruits Basket S2 (2019) : 
+Moved file : [HorribleSubs] Fruits Basket S2 (2019) - 25 [720p].mkv
+
+Moving files to - Fugou Keiji Balance - UNLIMITED : 
+Moved file : [HorribleSubs] Fugou Keiji Balance - UNLIMITED - 11 [720p].mkv
+
+Moving files to - Gibiate : 
+Moved file : [HorribleSubs] Gibiate - 11 [720p].mkv
+
+Moving files to - Kanojo, Okarishimasu : 
+Moved file : [HorribleSubs] Kanojo, Okarishimasu - 12 [720p].mkv
+
+Moving files to - Maou Gakuin no Futekigousha : 
+Moved file : [HorribleSubs] Maou Gakuin no Futekigousha - 12 [720p].mkv
+Moved file : [HorribleSubs] Maou Gakuin no Futekigousha - 13 [720p].mkv
+
+Moving files to - Monster Musume no Oisha-san : 
+Moved file : [HorribleSubs] Monster Musume no Oisha-san - 11 [720p].mkv
+Moved file : [HorribleSubs] Monster Musume no Oisha-san - 12 [720p].mkv
+
+Moving files to - No Guns Life : 
+Moved file : [HorribleSubs] No Guns Life - 24 [720p].mkv
+
+Moving files to - One Piece : 
+Moved file : [HorribleSubs] One Piece - 942 [720p].mkv
+Moved file : [HorribleSubs] One Piece - 943 [720p].mkv
+
+Moving files to - Peter Grill to Kenja no Jikan : 
+Moved file : [HorribleSubs] Peter Grill to Kenja no Jikan - 12 [720p].mkv
+
+Moving files to - Re Zero kara Hajimeru Isekai Seikatsu : 
+Moved file : [HorribleSubs] Re Zero kara Hajimeru Isekai Seikatsu - 37 [720p].mkv
+
+Moving files to - Sword Art Online - Alicization - War of Underworld : 
+Moved file : [HorribleSubs] Sword Art Online - Alicization - War of Underworld - 23 [720p].mkv
+
+Moving files to - The God of High School : 
+Moved file : [HorribleSubs] The God of High School - 12 [720p].mkv
+
+Moving files to - Toaru Kagaku no Railgun T : 
+Moved file : [HorribleSubs] Toaru Kagaku no Railgun T - 25 [720p].mkv
+
+Moving files to - Umayon : 
+Moved file : [HorribleSubs] Umayon - 12 [720p].mkv
+
+Moving files to - Uzaki-chan wa Asobitai! : 
+Moved file : [HorribleSubs] Uzaki-chan wa Asobitai! - 12 [720p].mkv
+
+Moving files to - Yahari Ore no Seishun Love Come wa Machigatteiru Kan : 
+Moved file : [HorribleSubs] Yahari Ore no Seishun Love Come wa Machigatteiru Kan - 12 [720p].mkv
+
+ Total files moved : 24 files
+ Unable to move 0 files
+ Folders made : 0 folders
+-------Process completed successfullty-------

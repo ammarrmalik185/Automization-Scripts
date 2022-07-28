@@ -1,0 +1,1348 @@
+Log date and time : 2019-07-24 22:40:50.803631
+Source Folder : E:\Animes\Watched Random Episodes
+Save Folder   : E:\Animes\Sorted Animes 2
+Methord Used  : C:\Users\ParadoX\PycharmProjects\Auto Orgainzer\Algorithums\horriable subs algo.txt
+
+-------Process started------- :
+
+
+Moving from - E:\Animes\Watched Random Episodes : 
+
+
+
+
+Making folder : Bem
+Moving files to - Bem : 
+Moved file : [HorribleSubs] Bem - 01 [360p].mkv
+Moved file : [HorribleSubs] Bem - 02 [360p].mkv
+
+
+
+
+
+Making folder : Black Clover
+Moving files to - Black Clover : 
+Moved file : [HorribleSubs] Black Clover - 55 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 63 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 64 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 65 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 66 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 67 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 68 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 69 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 70 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 71 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 72 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 73 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 74 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 75 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 76 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 77 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 78 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 79 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 80 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 81 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 82 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 83 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 84 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 85 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 86 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 87 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 88 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 89 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 90 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 91 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 92 [480p].mkv
+Moved file : [HorribleSubs] Black Clover - 93 [480p].mkv
+
+
+
+
+
+Making folder : Bokutachi wa Benkyou ga Dekinai
+Moving files to - Bokutachi wa Benkyou ga Dekinai : 
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 01 [480p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 02 [480p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 03 [480p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 04 [480p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 05 [720p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 06 [480p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 07 [480p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 08 [480p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 09 [480p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 10 [480p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 11 [480p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 12 [480p].mkv
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai - 13 [480p].mkv
+
+
+
+
+
+Making folder : Bungou Stray Dogs
+Moving files to - Bungou Stray Dogs : 
+Moved file : [HorribleSubs] Bungou Stray Dogs - 25 [480p].mkv
+Moved file : [HorribleSubs] Bungou Stray Dogs - 26 [480p].mkv
+Moved file : [HorribleSubs] Bungou Stray Dogs - 27 [480p].mkv
+Moved file : [HorribleSubs] Bungou Stray Dogs - 28 [480p].mkv
+Moved file : [HorribleSubs] Bungou Stray Dogs - 29 [480p].mkv
+Moved file : [HorribleSubs] Bungou Stray Dogs - 30 [480p].mkv
+Moved file : [HorribleSubs] Bungou Stray Dogs - 31 [480p].mkv
+Moved file : [HorribleSubs] Bungou Stray Dogs - 32 [480p].mkv
+Moved file : [HorribleSubs] Bungou Stray Dogs - 33 [480p].mkv
+Moved file : [HorribleSubs] Bungou Stray Dogs - 34 [480p].mkv
+Moved file : [HorribleSubs] Bungou Stray Dogs - 35 [480p].mkv
+Moved file : [HorribleSubs] Bungou Stray Dogs - 36 [480p].mkv
+Moved file : [HorribleSubs] Bungou Stray Dogs - 37 [480p].mkv
+
+
+
+
+
+Making folder : Conception
+Moving files to - Conception : 
+Moved file : [HorribleSubs] Conception - 09 [480p].mkv
+Moved file : [HorribleSubs] Conception - 11 [480p].mkv
+Moved file : [HorribleSubs] Conception - 12 [480p].mkv
+
+
+
+
+
+Making folder : Cop Craft
+Moving files to - Cop Craft : 
+Moved file : [HorribleSubs] Cop Craft - 01 [360p].mkv
+Moved file : [HorribleSubs] Cop Craft - 02 [360p].mkv
+Moved file : [HorribleSubs] Cop Craft - 03 [360p].mkv
+
+
+
+
+
+Making folder : Date A Live S3
+Moving files to - Date A Live S3 : 
+Moved file : [HorribleSubs] Date A Live S3 - 02 [480p].mkv
+Moved file : [HorribleSubs] Date A Live S3 - 04 [480p].mkv
+Moved file : [HorribleSubs] Date A Live S3 - 05 [480p].mkv
+Moved file : [HorribleSubs] Date A Live S3 - 06 [480p].mkv
+Moved file : [HorribleSubs] Date A Live S3 - 07 [480p].mkv
+Moved file : [HorribleSubs] Date A Live S3 - 08 [480p].mkv
+Moved file : [HorribleSubs] Date A Live S3 - 09 [480p].mkv
+Moved file : [HorribleSubs] Date A Live S3 - 10 [480p].mkv
+Moved file : [HorribleSubs] Date A Live S3 - 11 [480p].mkv
+Moved file : [HorribleSubs] Date A Live S3 - 12 [480p].mkv
+
+
+
+
+
+Making folder : Doukyonin wa Hiza, Tokidoki, Atama no Ue
+Moving files to - Doukyonin wa Hiza, Tokidoki, Atama no Ue : 
+Moved file : [HorribleSubs] Doukyonin wa Hiza, Tokidoki, Atama no Ue - 04 [480p].mkv
+Moved file : [HorribleSubs] Doukyonin wa Hiza, Tokidoki, Atama no Ue - 05 [480p].mkv
+Moved file : [HorribleSubs] Doukyonin wa Hiza, Tokidoki, Atama no Ue - 06 [480p].mkv
+Moved file : [HorribleSubs] Doukyonin wa Hiza, Tokidoki, Atama no Ue - 07 [480p].mkv
+Moved file : [HorribleSubs] Doukyonin wa Hiza, Tokidoki, Atama no Ue - 08 [480p].mkv
+Moved file : [HorribleSubs] Doukyonin wa Hiza, Tokidoki, Atama no Ue - 09 [480p].mkv
+Moved file : [HorribleSubs] Doukyonin wa Hiza, Tokidoki, Atama no Ue - 10 [480p].mkv
+Moved file : [HorribleSubs] Doukyonin wa Hiza, Tokidoki, Atama no Ue - 11 [480p].mkv
+Moved file : [HorribleSubs] Doukyonin wa Hiza, Tokidoki, Atama no Ue - 12 [480p].mkv
+
+
+
+
+
+Making folder : Dr. Stone
+Moving files to - Dr. Stone : 
+Moved file : [HorribleSubs] Dr. Stone - 01 [480p].mkv
+Moved file : [HorribleSubs] Dr. Stone - 02 [480p].mkv
+Moved file : [HorribleSubs] Dr. Stone - 03 [480p].mkv
+
+
+
+
+
+Making folder : Dumbbell Nan Kilo Moteru
+Moving files to - Dumbbell Nan Kilo Moteru : 
+Moved file : [HorribleSubs] Dumbbell Nan Kilo Moteru - 01 [360p].mkv
+Moved file : [HorribleSubs] Dumbbell Nan Kilo Moteru - 02 [360p].mkv
+Moved file : [HorribleSubs] Dumbbell Nan Kilo Moteru - 03 [360p].mkv
+
+
+
+
+
+Making folder : Endro
+Moving files to - Endro : 
+Moved file : [HorribleSubs] Endro - 02 [480p].mkv
+Moved file : [HorribleSubs] Endro - 03 [480p].mkv
+Moved file : [HorribleSubs] Endro - 04 [480p].mkv
+Moved file : [HorribleSubs] Endro - 05 [480p].mkv
+Moved file : [HorribleSubs] Endro - 06 [480p].mkv
+Moved file : [HorribleSubs] Endro - 07 [480p].mkv
+Moved file : [HorribleSubs] Endro - 08 [480p].mkv
+Moved file : [HorribleSubs] Endro - 09 [480p].mkv
+Moved file : [HorribleSubs] Endro - 10 [480p].mkv
+Moved file : [HorribleSubs] Endro - 11 [480p].mkv
+Moved file : [HorribleSubs] Endro - 12 [480p].mkv
+
+
+
+
+
+Making folder : Enen no Shouboutai
+Moving files to - Enen no Shouboutai : 
+Moved file : [HorribleSubs] Enen no Shouboutai - 01 [480p].mkv
+Moved file : [HorribleSubs] Enen no Shouboutai - 02 [480p].mkv
+
+
+
+
+
+Making folder : Ensemble Stars!
+Moving files to - Ensemble Stars! : 
+Moved file : [HorribleSubs] Ensemble Stars! - 01 [360p].mkv
+Moved file : [HorribleSubs] Ensemble Stars! - 02 [360p].mkv
+Moved file : [HorribleSubs] Ensemble Stars! - 03 [360p].mkv
+
+
+
+
+
+Making folder : Fairy Gone
+Moving files to - Fairy Gone : 
+Moved file : [HorribleSubs] Fairy Gone - 02 [360p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 03 [360p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 04 [360p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 05 [360p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 06 [360p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 07 [360p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 08 [360p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 09 [360p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 10 [360p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 11 [360p].mkv
+Moved file : [HorribleSubs] Fairy Gone - 12 [360p].mkv
+
+
+
+
+
+Making folder : Fairy Tail Final Season
+Moving files to - Fairy Tail Final Season : 
+Moved file : [HorribleSubs] Fairy Tail Final Season - 280 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 289 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 290 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 292 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 293 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 294 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 295 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 296 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 297 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 298 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 299 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 300 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 301 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 302 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 303 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 304 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 305 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 306 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 307 [720p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 308 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 309 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 310 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 311 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 312 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 313 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 314 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 315 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 316 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 317 [480p].mkv
+Moved file : [HorribleSubs] Fairy Tail Final Season - 318 [480p].mkv
+
+
+
+
+
+Making folder : Fruits Basket (2019)
+Moving files to - Fruits Basket (2019) : 
+Moved file : [HorribleSubs] Fruits Basket (2019) - 02 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 03 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 04 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 05 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 06 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 07 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 08 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 09 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 10 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 11 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 12 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 13 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 14 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 15 [480p].mkv
+Moved file : [HorribleSubs] Fruits Basket (2019) - 16 [480p].mkv
+
+
+
+
+
+Making folder : Gakuen Basara
+Moving files to - Gakuen Basara : 
+Moved file : [HorribleSubs] Gakuen Basara - 11 [480p].mkv
+Moved file : [HorribleSubs] Gakuen Basara - 12 [480p].mkv
+
+
+
+
+
+Making folder : Girly Air Force
+Moving files to - Girly Air Force : 
+Moved file : [HorribleSubs] Girly Air Force - 04 [480p].mkv
+Moved file : [HorribleSubs] Girly Air Force - 05 [480p].mkv
+Moved file : [HorribleSubs] Girly Air Force - 06 [480p].mkv
+Moved file : [HorribleSubs] Girly Air Force - 07 [480p].mkv
+Moved file : [HorribleSubs] Girly Air Force - 08 [480p].mkv
+Moved file : [HorribleSubs] Girly Air Force - 09 [480p].mkv
+Moved file : [HorribleSubs] Girly Air Force - 10 [480p].mkv
+Moved file : [HorribleSubs] Girly Air Force - 11 [480p].mkv
+Moved file : [HorribleSubs] Girly Air Force - 12 [480p].mkv
+
+
+
+
+
+Making folder : Go-toubun no Hanayome
+Moving files to - Go-toubun no Hanayome : 
+Moved file : [HorribleSubs] Go-toubun no Hanayome - 02 [480p].mkv
+Moved file : [HorribleSubs] Go-toubun no Hanayome - 04 [480p].mkv
+Moved file : [HorribleSubs] Go-toubun no Hanayome - 05 [480p].mkv
+Moved file : [HorribleSubs] Go-toubun no Hanayome - 06 [480p].mkv
+Moved file : [HorribleSubs] Go-toubun no Hanayome - 07 [480p].mkv
+Moved file : [HorribleSubs] Go-toubun no Hanayome - 08 [480p].mkv
+Moved file : [HorribleSubs] Go-toubun no Hanayome - 09 [480p].mkv
+Moved file : [HorribleSubs] Go-toubun no Hanayome - 10 [480p].mkv
+Moved file : [HorribleSubs] Go-toubun no Hanayome - 11 [480p].mkv
+Moved file : [HorribleSubs] Go-toubun no Hanayome - 12 [480p].mkv
+
+
+
+
+
+Making folder : Goblin Slayer
+Moving files to - Goblin Slayer : 
+Moved file : [HorribleSubs] Goblin Slayer - 10.5 [480p].mkv
+Moved file : [HorribleSubs] Goblin Slayer - 11 [480p].mkv
+Moved file : [HorribleSubs] Goblin Slayer - 12 [480p].mkv
+
+
+
+
+
+Making folder : Granbelm
+Moving files to - Granbelm : 
+Moved file : [HorribleSubs] Granbelm - 01 [480p].mkv
+Moved file : [HorribleSubs] Granbelm - 02 [480p].mkv
+Moved file : [HorribleSubs] Granbelm - 03 [480p].mkv
+
+
+
+
+
+Making folder : Grimms Notes The Animation
+Moving files to - Grimms Notes The Animation : 
+Moved file : [HorribleSubs] Grimms Notes The Animation - 02 [480p].mkv
+Moved file : [HorribleSubs] Grimms Notes The Animation - 04 [480p].mkv
+Moved file : [HorribleSubs] Grimms Notes The Animation - 05 [480p].mkv
+Moved file : [HorribleSubs] Grimms Notes The Animation - 06 [480p].mkv
+Moved file : [HorribleSubs] Grimms Notes The Animation - 07 [480p].mkv
+Moved file : [HorribleSubs] Grimms Notes The Animation - 08 [480p].mkv
+Moved file : [HorribleSubs] Grimms Notes The Animation - 09 [480p].mkv
+Moved file : [HorribleSubs] Grimms Notes The Animation - 10 [480p].mkv
+Moved file : [HorribleSubs] Grimms Notes The Animation - 11 [480p].mkv
+Moved file : [HorribleSubs] Grimms Notes The Animation - 12 [480p].mkv
+
+
+
+
+
+Making folder : Hachigatsu no Cinderella Nine
+Moving files to - Hachigatsu no Cinderella Nine : 
+Moved file : [HorribleSubs] Hachigatsu no Cinderella Nine - 01 [480p].mkv
+Moved file : [HorribleSubs] Hachigatsu no Cinderella Nine - 02 [480p].mkv
+Moved file : [HorribleSubs] Hachigatsu no Cinderella Nine - 03 [480p].mkv
+Moved file : [HorribleSubs] Hachigatsu no Cinderella Nine - 04 [480p].mkv
+Moved file : [HorribleSubs] Hachigatsu no Cinderella Nine - 05 [480p].mkv
+Moved file : [HorribleSubs] Hachigatsu no Cinderella Nine - 06 [480p].mkv
+Moved file : [HorribleSubs] Hachigatsu no Cinderella Nine - 07 [480p].mkv
+Moved file : [HorribleSubs] Hachigatsu no Cinderella Nine - 08 [480p].mkv
+Moved file : [HorribleSubs] Hachigatsu no Cinderella Nine - 09 [480p].mkv
+Moved file : [HorribleSubs] Hachigatsu no Cinderella Nine - 10 [480p].mkv
+Moved file : [HorribleSubs] Hachigatsu no Cinderella Nine - 11 [480p].mkv
+Moved file : [HorribleSubs] Hachigatsu no Cinderella Nine - 12 [480p].mkv
+
+
+
+
+
+Making folder : Hakata Mentai! Pirikarako-chan
+Moving files to - Hakata Mentai! Pirikarako-chan : 
+Moved file : [HorribleSubs] Hakata Mentai! Pirikarako-chan - 01 [480p].mkv
+
+
+
+
+
+Making folder : Hataraku Saibou
+Moving files to - Hataraku Saibou : 
+Moved file : [HorribleSubs] Hataraku Saibou - 14 [480p].mkv
+
+
+
+
+
+Making folder : HenSuki
+Moving files to - HenSuki : 
+Moved file : [HorribleSubs] HenSuki - 01 [360p].mkv
+Moved file : [HorribleSubs] HenSuki - 02 [360p].mkv
+Moved file : [HorribleSubs] HenSuki - 03 [360p].mkv
+
+
+
+
+
+Making folder : Hitoribocchi no Marumaru Seikatsu
+Moving files to - Hitoribocchi no Marumaru Seikatsu : 
+Moved file : [HorribleSubs] Hitoribocchi no Marumaru Seikatsu - 01 [480p].mkv
+Moved file : [HorribleSubs] Hitoribocchi no Marumaru Seikatsu - 02 [480p].mkv
+Moved file : [HorribleSubs] Hitoribocchi no Marumaru Seikatsu - 03 [480p].mkv
+Moved file : [HorribleSubs] Hitoribocchi no Marumaru Seikatsu - 04 [480p].mkv
+Moved file : [HorribleSubs] Hitoribocchi no Marumaru Seikatsu - 05 [480p].mkv
+Moved file : [HorribleSubs] Hitoribocchi no Marumaru Seikatsu - 06 [480p].mkv
+Moved file : [HorribleSubs] Hitoribocchi no Marumaru Seikatsu - 07 [480p].mkv
+Moved file : [HorribleSubs] Hitoribocchi no Marumaru Seikatsu - 08 [480p].mkv
+Moved file : [HorribleSubs] Hitoribocchi no Marumaru Seikatsu - 09 [480p].mkv
+Moved file : [HorribleSubs] Hitoribocchi no Marumaru Seikatsu - 10 [480p].mkv
+Moved file : [HorribleSubs] Hitoribocchi no Marumaru Seikatsu - 11 [480p].mkv
+Moved file : [HorribleSubs] Hitoribocchi no Marumaru Seikatsu - 12 [480p].mkv
+
+
+
+
+
+Making folder : Irozuku Sekai no Ashita kara
+Moving files to - Irozuku Sekai no Ashita kara : 
+Moved file : [HorribleSubs] Irozuku Sekai no Ashita kara - 11 [480p].mkv
+Moved file : [HorribleSubs] Irozuku Sekai no Ashita kara - 12 [480p].mkv
+Moved file : [HorribleSubs] Irozuku Sekai no Ashita kara - 13 [480p].mkv
+
+
+
+
+
+Making folder : Isekai Cheat Magician
+Moving files to - Isekai Cheat Magician : 
+Moved file : [HorribleSubs] Isekai Cheat Magician - 01 [480p].mkv
+Moved file : [HorribleSubs] Isekai Cheat Magician - 02 [480p].mkv
+
+
+
+
+
+Making folder : Isekai Quartet
+Moving files to - Isekai Quartet : 
+Moved file : [HorribleSubs] Isekai Quartet - 01 [360p].mkv
+Moved file : [HorribleSubs] Isekai Quartet - 02 [360p].mkv
+Moved file : [HorribleSubs] Isekai Quartet - 03 [360p].mkv
+Moved file : [HorribleSubs] Isekai Quartet - 04 [480p].mkv
+Moved file : [HorribleSubs] Isekai Quartet - 05 [480p].mkv
+Moved file : [HorribleSubs] Isekai Quartet - 06 [480p].mkv
+Moved file : [HorribleSubs] Isekai Quartet - 07 [480p].mkv
+Moved file : [HorribleSubs] Isekai Quartet - 08 [480p].mkv
+Moved file : [HorribleSubs] Isekai Quartet - 09 [480p].mkv
+Moved file : [HorribleSubs] Isekai Quartet - 10 [480p].mkv
+Moved file : [HorribleSubs] Isekai Quartet - 11 [480p].mkv
+Moved file : [HorribleSubs] Isekai Quartet - 12 [480p].mkv
+
+
+
+
+
+Making folder : Joshikausei
+Moving files to - Joshikausei : 
+Moved file : [HorribleSubs] Joshikausei - 01 [480p].mkv
+Moved file : [HorribleSubs] Joshikausei - 02 [480p].mkv
+Moved file : [HorribleSubs] Joshikausei - 03 [480p].mkv
+Moved file : [HorribleSubs] Joshikausei - 04 [480p].mkv
+Moved file : [HorribleSubs] Joshikausei - 05 [720p].mkv
+Moved file : [HorribleSubs] Joshikausei - 06 [480p].mkv
+Moved file : [HorribleSubs] Joshikausei - 07 [480p].mkv
+Moved file : [HorribleSubs] Joshikausei - 08 [480p].mkv
+Moved file : [HorribleSubs] Joshikausei - 09 [480p].mkv
+Moved file : [HorribleSubs] Joshikausei - 10 [480p].mkv
+Moved file : [HorribleSubs] Joshikausei - 11 [480p].mkv
+Moved file : [HorribleSubs] Joshikausei - 12 [480p].mkv
+
+
+
+
+
+Making folder : Joshikousei no Mudazukai
+Moving files to - Joshikousei no Mudazukai : 
+Moved file : [HorribleSubs] Joshikousei no Mudazukai - 01 [480p].mkv
+Moved file : [HorribleSubs] Joshikousei no Mudazukai - 02 [480p].mkv
+Moved file : [HorribleSubs] Joshikousei no Mudazukai - 03 [480p].mkv
+
+
+
+
+
+Making folder : Kaguya-sama wa Kokurasetai
+Moving files to - Kaguya-sama wa Kokurasetai : 
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai - 02 [480p].mkv
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai - 03 [480p].mkv
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai - 04 [480p].mkv
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai - 05 [480p].mkv
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai - 06 [480p].mkv
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai - 07 [480p].mkv
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai - 08 [480p].mkv
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai - 09 [480p].mkv
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai - 10 [480p].mkv
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai - 11 [480p].mkv
+Moved file : [HorribleSubs] Kaguya-sama wa Kokurasetai - 12 [480p].mkv
+
+
+
+
+
+Making folder : Kanata no Astra
+Moving files to - Kanata no Astra : 
+Moved file : [HorribleSubs] Kanata no Astra - 01 [360p].mkv
+Moved file : [HorribleSubs] Kanata no Astra - 02 [360p].mkv
+Moved file : [HorribleSubs] Kanata no Astra - 03 [360p].mkv
+
+
+
+
+
+Making folder : Karakuri Circus
+Moving files to - Karakuri Circus : 
+Moved file : [HorribleSubs] Karakuri Circus - 02 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 10 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 11 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 12 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 14 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 15 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 16 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 17 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 18 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 19 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 20 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 21 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 22 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 23 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 24 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 25 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 26 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 27 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 28 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 29 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 30 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 31 [720p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 32 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 33 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 34 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 35 [480p].mkv
+Moved file : [HorribleSubs] Karakuri Circus - 36 [480p].mkv
+
+
+
+
+
+Making folder : Katsute Kami Datta Kemono-tachi e
+Moving files to - Katsute Kami Datta Kemono-tachi e : 
+Moved file : [HorribleSubs] Katsute Kami Datta Kemono-tachi e - 01 [480p].mkv
+Moved file : [HorribleSubs] Katsute Kami Datta Kemono-tachi e - 02 [480p].mkv
+Moved file : [HorribleSubs] Katsute Kami Datta Kemono-tachi e - 03 [480p].mkv
+Moved file : [HorribleSubs] Katsute Kami Datta Kemono-tachi e - 04 [480p].mkv
+
+
+
+
+
+Making folder : Ken En Ken - Aoki Kagayaki
+Moving files to - Ken En Ken - Aoki Kagayaki : 
+Moved file : [HorribleSubs] Ken En Ken - Aoki Kagayaki - 11 [480p].mkv
+Moved file : [HorribleSubs] Ken En Ken - Aoki Kagayaki - 12 [480p].mkv
+Moved file : [HorribleSubs] Ken En Ken - Aoki Kagayaki - 13 [480p].mkv
+
+
+
+
+
+Making folder : Kenja no Mago
+Moving files to - Kenja no Mago : 
+Moved file : [HorribleSubs] Kenja no Mago - 01 [360p].mkv
+Moved file : [HorribleSubs] Kenja no Mago - 02 [360p].mkv
+Moved file : [HorribleSubs] Kenja no Mago - 03 [480p].mkv
+Moved file : [HorribleSubs] Kenja no Mago - 04 [480p].mkv
+Moved file : [HorribleSubs] Kenja no Mago - 05 [480p].mkv
+Moved file : [HorribleSubs] Kenja no Mago - 06 [480p].mkv
+Moved file : [HorribleSubs] Kenja no Mago - 07 [480p].mkv
+Moved file : [HorribleSubs] Kenja no Mago - 08 [480p].mkv
+Moved file : [HorribleSubs] Kenja no Mago - 09 [480p].mkv
+Moved file : [HorribleSubs] Kenja no Mago - 10 [480p].mkv
+Moved file : [HorribleSubs] Kenja no Mago - 11 [480p].mkv
+Moved file : [HorribleSubs] Kenja no Mago - 12 [480p].mkv
+
+
+
+
+
+Making folder : Kimetsu no Yaiba
+Moving files to - Kimetsu no Yaiba : 
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 02 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 03 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 04 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 05 [720p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 06 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 07 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 08 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 09 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 10 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 11 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 12 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 13 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 14 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 15 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 16 [480p].mkv
+
+
+
+
+
+Making folder : Kishuku Gakkou no Juliet
+Moving files to - Kishuku Gakkou no Juliet : 
+Moved file : [HorribleSubs] Kishuku Gakkou no Juliet - 12 [480p].mkv
+
+
+
+
+
+Making folder : Kitsune no Koe
+Moving files to - Kitsune no Koe : 
+Moved file : [HorribleSubs] Kitsune no Koe - 11 [480p].mkv
+
+
+
+
+
+Making folder : Kochoki - Wakaki Nobunaga
+Moving files to - Kochoki - Wakaki Nobunaga : 
+Moved file : [HorribleSubs] Kochoki - Wakaki Nobunaga - 01 [360p].mkv
+Moved file : [HorribleSubs] Kochoki - Wakaki Nobunaga - 02 [360p].mkv
+Moved file : [HorribleSubs] Kochoki - Wakaki Nobunaga - 03 [360p].mkv
+
+
+
+
+
+Making folder : Kono Oto Tomare!
+Moving files to - Kono Oto Tomare! : 
+Moved file : [HorribleSubs] Kono Oto Tomare! - 01 [360p].mkv
+
+
+
+
+
+Making folder : Kono Yo no Hate de Koi wo Utau Shoujo YU-NO
+Moving files to - Kono Yo no Hate de Koi wo Utau Shoujo YU-NO : 
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 01 [360p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 02 [720p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 03 [360p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 04 [360p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 05 [480p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 06 [480p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 07 [480p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 08 [480p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 09 [480p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 10 [480p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 11 [480p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 12 [480p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 13 [480p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 14 [480p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 15 [480p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 16 [480p].mkv
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 17 [480p].mkv
+
+
+
+
+
+Making folder : Lord El-Melloi II Case Files
+Moving files to - Lord El-Melloi II Case Files : 
+Moved file : [HorribleSubs] Lord El-Melloi II Case Files - 01 [480p].mkv
+Moved file : [HorribleSubs] Lord El-Melloi II Case Files - 02 [480p].mkv
+Moved file : [HorribleSubs] Lord El-Melloi II Case Files - 03 [480p].mkv
+
+
+
+
+
+Making folder : Machikado Mazoku
+Moving files to - Machikado Mazoku : 
+Moved file : [HorribleSubs] Machikado Mazoku - 01 [480p].mkv
+Moved file : [HorribleSubs] Machikado Mazoku - 02 [480p].mkv
+
+
+
+
+
+Making folder : Mahou Shoujo Tokushusen Asuka
+Moving files to - Mahou Shoujo Tokushusen Asuka : 
+Moved file : [HorribleSubs] Mahou Shoujo Tokushusen Asuka - 02 [480p].mkv
+Moved file : [HorribleSubs] Mahou Shoujo Tokushusen Asuka - 04 [480p].mkv
+Moved file : [HorribleSubs] Mahou Shoujo Tokushusen Asuka - 05 [480p].mkv
+Moved file : [HorribleSubs] Mahou Shoujo Tokushusen Asuka - 06 [480p].mkv
+Moved file : [HorribleSubs] Mahou Shoujo Tokushusen Asuka - 07 [480p].mkv
+Moved file : [HorribleSubs] Mahou Shoujo Tokushusen Asuka - 08 [480p].mkv
+Moved file : [HorribleSubs] Mahou Shoujo Tokushusen Asuka - 09 [480p].mkv
+Moved file : [HorribleSubs] Mahou Shoujo Tokushusen Asuka - 10 [480p].mkv
+Moved file : [HorribleSubs] Mahou Shoujo Tokushusen Asuka - 11 [480p].mkv
+Moved file : [HorribleSubs] Mahou Shoujo Tokushusen Asuka - 12 [480p].mkv
+
+
+
+
+
+Making folder : Maou-sama, Retry!
+Moving files to - Maou-sama, Retry! : 
+Moved file : [HorribleSubs] Maou-sama, Retry! - 01 [360p].mkv
+Moved file : [HorribleSubs] Maou-sama, Retry! - 02 [360p].mkv
+Moved file : [HorribleSubs] Maou-sama, Retry! - 03 [360p].mkv
+
+
+
+
+
+Making folder : Mayonaka no Occult Koumuin
+Moving files to - Mayonaka no Occult Koumuin : 
+Moved file : [HorribleSubs] Mayonaka no Occult Koumuin - 01 [480p].mkv
+Moved file : [HorribleSubs] Mayonaka no Occult Koumuin - 02 [480p].mkv
+Moved file : [HorribleSubs] Mayonaka no Occult Koumuin - 03 [480p].mkv
+Moved file : [HorribleSubs] Mayonaka no Occult Koumuin - 04 [480p].mkv
+Moved file : [HorribleSubs] Mayonaka no Occult Koumuin - 05 [480p].mkv
+Moved file : [HorribleSubs] Mayonaka no Occult Koumuin - 06 [480p].mkv
+Moved file : [HorribleSubs] Mayonaka no Occult Koumuin - 07 [480p].mkv
+Moved file : [HorribleSubs] Mayonaka no Occult Koumuin - 08 [480p].mkv
+Moved file : [HorribleSubs] Mayonaka no Occult Koumuin - 09 [480p].mkv
+Moved file : [HorribleSubs] Mayonaka no Occult Koumuin - 10 [480p].mkv
+Moved file : [HorribleSubs] Mayonaka no Occult Koumuin - 11 [480p].mkv
+Moved file : [HorribleSubs] Mayonaka no Occult Koumuin - 12 [480p].mkv
+
+
+
+
+
+Making folder : Merc Storia - Mukiryoku Shounen to Bin no Naka no Shoujo
+Moving files to - Merc Storia - Mukiryoku Shounen to Bin no Naka no Shoujo : 
+Moved file : [HorribleSubs] Merc Storia - Mukiryoku Shounen to Bin no Naka no Shoujo - 03 [480p].mkv
+Moved file : [HorribleSubs] Merc Storia - Mukiryoku Shounen to Bin no Naka no Shoujo - 09 [480p].mkv
+Moved file : [HorribleSubs] Merc Storia - Mukiryoku Shounen to Bin no Naka no Shoujo - 11 [480p].mkv
+Moved file : [HorribleSubs] Merc Storia - Mukiryoku Shounen to Bin no Naka no Shoujo - 12 [480p].mkv
+
+
+
+
+
+Making folder : Midara na Ao-chan wa Benkyou ga Dekinai
+Moving files to - Midara na Ao-chan wa Benkyou ga Dekinai : 
+Moved file : [HorribleSubs] Midara na Ao-chan wa Benkyou ga Dekinai - 02 [480p].mkv
+Moved file : [HorribleSubs] Midara na Ao-chan wa Benkyou ga Dekinai - 03 [480p].mkv
+Moved file : [HorribleSubs] Midara na Ao-chan wa Benkyou ga Dekinai - 04 [480p].mkv
+Moved file : [HorribleSubs] Midara na Ao-chan wa Benkyou ga Dekinai - 05 [480p].mkv
+Moved file : [HorribleSubs] Midara na Ao-chan wa Benkyou ga Dekinai - 06 [480p].mkv
+Moved file : [HorribleSubs] Midara na Ao-chan wa Benkyou ga Dekinai - 07 [480p].mkv
+Moved file : [HorribleSubs] Midara na Ao-chan wa Benkyou ga Dekinai - 08 [480p].mkv
+Moved file : [HorribleSubs] Midara na Ao-chan wa Benkyou ga Dekinai - 09 [480p].mkv
+Moved file : [HorribleSubs] Midara na Ao-chan wa Benkyou ga Dekinai - 10 [480p].mkv
+Moved file : [HorribleSubs] Midara na Ao-chan wa Benkyou ga Dekinai - 11 [480p].mkv
+Moved file : [HorribleSubs] Midara na Ao-chan wa Benkyou ga Dekinai - 12 [480p].mkv
+
+
+
+
+
+Making folder : Mix - Meisei Story
+Moving files to - Mix - Meisei Story : 
+Moved file : [HorribleSubs] Mix - Meisei Story - 01 [360p].mkv
+
+
+
+
+
+Making folder : Mob Psycho 100 S2
+Moving files to - Mob Psycho 100 S2 : 
+Moved file : [HorribleSubs] Mob Psycho 100 S2 - 02 [480p].mkv
+Moved file : [HorribleSubs] Mob Psycho 100 S2 - 03 [480p].mkv
+Moved file : [HorribleSubs] Mob Psycho 100 S2 - 04 [480p].mkv
+Moved file : [HorribleSubs] Mob Psycho 100 S2 - 05 [480p].mkv
+Moved file : [HorribleSubs] Mob Psycho 100 S2 - 06 [480p].mkv
+Moved file : [HorribleSubs] Mob Psycho 100 S2 - 07 [480p].mkv
+Moved file : [HorribleSubs] Mob Psycho 100 S2 - 08 [480p].mkv
+Moved file : [HorribleSubs] Mob Psycho 100 S2 - 09 [480p].mkv
+Moved file : [HorribleSubs] Mob Psycho 100 S2 - 10 [480p].mkv
+Moved file : [HorribleSubs] Mob Psycho 100 S2 - 11 [480p].mkv
+Moved file : [HorribleSubs] Mob Psycho 100 S2 - 12 [480p].mkv
+Moved file : [HorribleSubs] Mob Psycho 100 S2 - 13 [480p].mkv
+
+
+
+
+
+Making folder : Nakanohito Genome [Jikkyouchuu]
+Moving files to - Nakanohito Genome [Jikkyouchuu] : 
+Moved file : [HorribleSubs] Nakanohito Genome [Jikkyouchuu] - 01 [360p].mkv
+Moved file : [HorribleSubs] Nakanohito Genome [Jikkyouchuu] - 02 [360p].mkv
+Moved file : [HorribleSubs] Nakanohito Genome [Jikkyouchuu] - 03 [360p].mkv
+
+
+
+
+
+Making folder : Namu Amida Butsu! - Rendai Utena
+Moving files to - Namu Amida Butsu! - Rendai Utena : 
+Moved file : [HorribleSubs] Namu Amida Butsu! - Rendai Utena - 01 [480p].mkv
+
+
+
+
+
+Making folder : Nande Koko ni Sensei ga
+Moving files to - Nande Koko ni Sensei ga : 
+Moved file : [HorribleSubs] Nande Koko ni Sensei ga - 02 [480p].mkv
+Moved file : [HorribleSubs] Nande Koko ni Sensei ga - 03 [480p].mkv
+Moved file : [HorribleSubs] Nande Koko ni Sensei ga - 04 [480p].mkv
+Moved file : [HorribleSubs] Nande Koko ni Sensei ga - 05 [480p].mkv
+Moved file : [HorribleSubs] Nande Koko ni Sensei ga - 06 [480p].mkv
+Moved file : [HorribleSubs] Nande Koko ni Sensei ga - 07 [480p].mkv
+Moved file : [HorribleSubs] Nande Koko ni Sensei ga - 08 [480p].mkv
+Moved file : [HorribleSubs] Nande Koko ni Sensei ga - 09 [480p].mkv
+Moved file : [HorribleSubs] Nande Koko ni Sensei ga - 10 [480p].mkv
+Moved file : [HorribleSubs] Nande Koko ni Sensei ga - 11 [480p].mkv
+Moved file : [HorribleSubs] Nande Koko ni Sensei ga - 12 [480p].mkv
+
+
+
+
+
+Making folder : Nobunaga-sensei no Osanazuma
+Moving files to - Nobunaga-sensei no Osanazuma : 
+Moved file : [HorribleSubs] Nobunaga-sensei no Osanazuma - 01 [480p].mkv
+Moved file : [HorribleSubs] Nobunaga-sensei no Osanazuma - 02 [480p].mkv
+Moved file : [HorribleSubs] Nobunaga-sensei no Osanazuma - 03 [480p].mkv
+Moved file : [HorribleSubs] Nobunaga-sensei no Osanazuma - 04 [480p].mkv
+Moved file : [HorribleSubs] Nobunaga-sensei no Osanazuma - 05 [720p].mkv
+Moved file : [HorribleSubs] Nobunaga-sensei no Osanazuma - 06 [480p].mkv
+Moved file : [HorribleSubs] Nobunaga-sensei no Osanazuma - 07 [480p].mkv
+Moved file : [HorribleSubs] Nobunaga-sensei no Osanazuma - 08 [480p].mkv
+Moved file : [HorribleSubs] Nobunaga-sensei no Osanazuma - 09 [480p].mkv
+Moved file : [HorribleSubs] Nobunaga-sensei no Osanazuma - 10 [480p].mkv
+Moved file : [HorribleSubs] Nobunaga-sensei no Osanazuma - 11 [480p].mkv
+Moved file : [HorribleSubs] Nobunaga-sensei no Osanazuma - 12 [480p].mkv
+
+
+
+
+
+Making folder : Okaa-san Online
+Moving files to - Okaa-san Online : 
+Moved file : [HorribleSubs] Okaa-san Online - 01 [480p].mkv
+Moved file : [HorribleSubs] Okaa-san Online - 02 [480p].mkv
+
+
+
+
+
+Making folder : One Piece
+Moving files to - One Piece : 
+Moved file : [HorribleSubs] One Piece - 858 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 865 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 866 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 867 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 869 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 870 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 871 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 872 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 873 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 874 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 875 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 876 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 877 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 878 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 879 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 880 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 881 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 882 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 883 [720p].mkv
+Moved file : [HorribleSubs] One Piece - 884 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 885 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 886 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 887 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 888 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 889 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 890 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 891 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 892 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 893 [480p].mkv
+Moved file : [HorribleSubs] One Piece - 894 [480p].mkv
+
+
+
+
+
+Making folder : One Punch Man S2
+Moving files to - One Punch Man S2 : 
+Moved file : [HorribleSubs] One Punch Man S2 - 01 [480p].mkv
+Moved file : [HorribleSubs] One Punch Man S2 - 02 [480p].mkv
+Moved file : [HorribleSubs] One Punch Man S2 - 03 [480p].mkv
+Moved file : [HorribleSubs] One Punch Man S2 - 04 [480p].mkv
+Moved file : [HorribleSubs] One Punch Man S2 - 05 [480p].mkv
+Moved file : [HorribleSubs] One Punch Man S2 - 06 [480p].mkv
+Moved file : [HorribleSubs] One Punch Man S2 - 07 [480p].mkv
+Moved file : [HorribleSubs] One Punch Man S2 - 08 [480p].mkv
+Moved file : [HorribleSubs] One Punch Man S2 - 09 [480p].mkv
+Moved file : [HorribleSubs] One Punch Man S2 - 10 [480p].mkv
+Moved file : [HorribleSubs] One Punch Man S2 - 11 [480p].mkv
+Moved file : [HorribleSubs] One Punch Man S2 - 12 [480p].mkv
+
+
+
+
+
+Making folder : Ore ga Suki nano wa Imouto dakedo Imouto ja Nai
+Moving files to - Ore ga Suki nano wa Imouto dakedo Imouto ja Nai : 
+Moved file : [HorribleSubs] Ore ga Suki nano wa Imouto dakedo Imouto ja Nai - 10 [480p].mkv
+
+
+
+
+
+Making folder : Radiant
+Moving files to - Radiant : 
+Moved file : [HorribleSubs] Radiant - 11 [480p].mkv
+Moved file : [HorribleSubs] Radiant - 12 [480p].mkv
+Moved file : [HorribleSubs] Radiant - 13 [480p].mkv
+Moved file : [HorribleSubs] Radiant - 14 [480p].mkv
+Moved file : [HorribleSubs] Radiant - 16 [480p].mkv
+Moved file : [HorribleSubs] Radiant - 18 [480p].mkv
+Moved file : [HorribleSubs] Radiant - 19 [480p].mkv
+Moved file : [HorribleSubs] Radiant - 20 [480p].mkv
+Moved file : [HorribleSubs] Radiant - 21 [480p].mkv
+
+
+
+
+
+Making folder : Re Stage! Dream Days
+Moving files to - Re Stage! Dream Days : 
+Moved file : [HorribleSubs] Re Stage! Dream Days - 01 [480p].mkv
+Moved file : [HorribleSubs] Re Stage! Dream Days - 02 [480p].mkv
+Moved file : [HorribleSubs] Re Stage! Dream Days - 03 [480p].mkv
+
+
+
+
+
+Making folder : Release the Spyce
+Moving files to - Release the Spyce : 
+Moved file : [HorribleSubs] Release the Spyce - 03 [480p].mkv
+Moved file : [HorribleSubs] Release the Spyce - 10 [480p].mkv
+Moved file : [HorribleSubs] Release the Spyce - 11 [480p].mkv
+Moved file : [HorribleSubs] Release the Spyce - 12 [480p].mkv
+
+
+
+
+
+Making folder : RobiHachi
+Moving files to - RobiHachi : 
+Moved file : [HorribleSubs] RobiHachi - 01 [360p].mkv
+Moved file : [HorribleSubs] RobiHachi - 02 [360p].mkv
+Moved file : [HorribleSubs] RobiHachi - 03 [360p].mkv
+Moved file : [HorribleSubs] RobiHachi - 04 [360p].mkv
+Moved file : [HorribleSubs] RobiHachi - 05 [360p].mkv
+Moved file : [HorribleSubs] RobiHachi - 06 [360p].mkv
+Moved file : [HorribleSubs] RobiHachi - 07 [360p].mkv
+Moved file : [HorribleSubs] RobiHachi - 08 [360p].mkv
+Moved file : [HorribleSubs] RobiHachi - 09 [360p].mkv
+Moved file : [HorribleSubs] RobiHachi - 10 [360p].mkv
+Moved file : [HorribleSubs] RobiHachi - 11 [360p].mkv
+Moved file : [HorribleSubs] RobiHachi - 12 [360p].mkv
+
+
+
+
+
+Making folder : SSSS.Gridman
+Moving files to - SSSS.Gridman : 
+Moved file : [HorribleSubs] SSSS.Gridman - 03 [480p].mkv
+Moved file : [HorribleSubs] SSSS.Gridman - 11 [480p].mkv
+Moved file : [HorribleSubs] SSSS.Gridman - 12 [480p].mkv
+
+
+
+
+
+Making folder : Sarazanmai
+Moving files to - Sarazanmai : 
+Moved file : [HorribleSubs] Sarazanmai - 01 [480p].mkv
+
+
+
+
+
+Making folder : Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+Moving files to - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai : 
+Moved file : [HorribleSubs] Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 04 [480p].mkv
+Moved file : [HorribleSubs] Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 12 [480p].mkv
+Moved file : [HorribleSubs] Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 13 [480p].mkv
+
+
+
+
+
+Making folder : Senryuu Shoujo
+Moving files to - Senryuu Shoujo : 
+Moved file : [HorribleSubs] Senryuu Shoujo - 01 [480p].mkv
+Moved file : [HorribleSubs] Senryuu Shoujo - 02 [480p].mkv
+Moved file : [HorribleSubs] Senryuu Shoujo - 03 [480p].mkv
+Moved file : [HorribleSubs] Senryuu Shoujo - 04 [480p].mkv
+Moved file : [HorribleSubs] Senryuu Shoujo - 05 [480p].mkv
+Moved file : [HorribleSubs] Senryuu Shoujo - 06 [480p].mkv
+Moved file : [HorribleSubs] Senryuu Shoujo - 07 [480p].mkv
+Moved file : [HorribleSubs] Senryuu Shoujo - 08 [480p].mkv
+Moved file : [HorribleSubs] Senryuu Shoujo - 09 [480p].mkv
+Moved file : [HorribleSubs] Senryuu Shoujo - 10 [480p].mkv
+Moved file : [HorribleSubs] Senryuu Shoujo - 11 [480p].mkv
+Moved file : [HorribleSubs] Senryuu Shoujo - 12 [480p].mkv
+
+
+
+
+
+Making folder : Sewayaki Kitsune no Senko-san
+Moving files to - Sewayaki Kitsune no Senko-san : 
+Moved file : [HorribleSubs] Sewayaki Kitsune no Senko-san - 02 [360p].mkv
+Moved file : [HorribleSubs] Sewayaki Kitsune no Senko-san - 03 [360p].mkv
+Moved file : [HorribleSubs] Sewayaki Kitsune no Senko-san - 04 [360p].mkv
+Moved file : [HorribleSubs] Sewayaki Kitsune no Senko-san - 05 [360p].mkv
+Moved file : [HorribleSubs] Sewayaki Kitsune no Senko-san - 06 [360p].mkv
+Moved file : [HorribleSubs] Sewayaki Kitsune no Senko-san - 07 [360p].mkv
+Moved file : [HorribleSubs] Sewayaki Kitsune no Senko-san - 08 [360p].mkv
+Moved file : [HorribleSubs] Sewayaki Kitsune no Senko-san - 09 [360p].mkv
+Moved file : [HorribleSubs] Sewayaki Kitsune no Senko-san - 10 [360p].mkv
+Moved file : [HorribleSubs] Sewayaki Kitsune no Senko-san - 11 [360p].mkv
+Moved file : [HorribleSubs] Sewayaki Kitsune no Senko-san - 12 [360p].mkv
+
+
+
+
+
+Making folder : Shingeki no Kyojin S3
+Moving files to - Shingeki no Kyojin S3 : 
+Moved file : [HorribleSubs] Shingeki no Kyojin S3 - 50 [480p].mkv
+Moved file : [HorribleSubs] Shingeki no Kyojin S3 - 51 [480p].mkv
+Moved file : [HorribleSubs] Shingeki no Kyojin S3 - 52 [480p].mkv
+Moved file : [HorribleSubs] Shingeki no Kyojin S3 - 53 [480p].mkv
+Moved file : [HorribleSubs] Shingeki no Kyojin S3 - 54 [480p].mkv
+Moved file : [HorribleSubs] Shingeki no Kyojin S3 - 55 [480p].mkv
+Moved file : [HorribleSubs] Shingeki no Kyojin S3 - 56 [480p].mkv
+Moved file : [HorribleSubs] Shingeki no Kyojin S3 - 57 [480p].mkv
+Moved file : [HorribleSubs] Shingeki no Kyojin S3 - 58 [480p].mkv
+Moved file : [HorribleSubs] Shingeki no Kyojin S3 - 59 [480p].mkv
+
+
+
+
+
+Making folder : Shoumetsu Toshi
+Moving files to - Shoumetsu Toshi : 
+Moved file : [HorribleSubs] Shoumetsu Toshi - 01 [360p].mkv
+Moved file : [HorribleSubs] Shoumetsu Toshi - 02 [360p].mkv
+Moved file : [HorribleSubs] Shoumetsu Toshi - 03 [360p].mkv
+Moved file : [HorribleSubs] Shoumetsu Toshi - 04 [360p].mkv
+Moved file : [HorribleSubs] Shoumetsu Toshi - 05 [360p].mkv
+Moved file : [HorribleSubs] Shoumetsu Toshi - 06 [360p].mkv
+Moved file : [HorribleSubs] Shoumetsu Toshi - 07 [360p].mkv
+Moved file : [HorribleSubs] Shoumetsu Toshi - 08 [360p].mkv
+Moved file : [HorribleSubs] Shoumetsu Toshi - 09 [360p].mkv
+Moved file : [HorribleSubs] Shoumetsu Toshi - 10 [360p].mkv
+Moved file : [HorribleSubs] Shoumetsu Toshi - 11 [360p].mkv
+Moved file : [HorribleSubs] Shoumetsu Toshi - 12 [360p].mkv
+
+
+
+
+
+Making folder : Sora to Umi no Aida
+Moving files to - Sora to Umi no Aida : 
+Moved file : [HorribleSubs] Sora to Umi no Aida - 04 [480p].mkv
+Moved file : [HorribleSubs] Sora to Umi no Aida - 11 [480p].mkv
+Moved file : [HorribleSubs] Sora to Umi no Aida - 12 [480p].mkv
+
+
+
+
+
+Making folder : Sounan desu ka
+Moving files to - Sounan desu ka : 
+Moved file : [HorribleSubs] Sounan desu ka - 01 [480p].mkv
+Moved file : [HorribleSubs] Sounan desu ka - 02 [480p].mkv
+Moved file : [HorribleSubs] Sounan desu ka - 03 [480p].mkv
+Moved file : [HorribleSubs] Sounan desu ka - 04 [480p].mkv
+
+
+
+
+
+Making folder : Strike Witches - 501-butai Hasshin Shimasu!
+Moving files to - Strike Witches - 501-butai Hasshin Shimasu! : 
+Moved file : [HorribleSubs] Strike Witches - 501-butai Hasshin Shimasu! - 01 [360p].mkv
+Moved file : [HorribleSubs] Strike Witches - 501-butai Hasshin Shimasu! - 02 [360p].mkv
+Moved file : [HorribleSubs] Strike Witches - 501-butai Hasshin Shimasu! - 03 [360p].mkv
+Moved file : [HorribleSubs] Strike Witches - 501-butai Hasshin Shimasu! - 04 [360p].mkv
+Moved file : [HorribleSubs] Strike Witches - 501-butai Hasshin Shimasu! - 05 [360p].mkv
+Moved file : [HorribleSubs] Strike Witches - 501-butai Hasshin Shimasu! - 06 [360p].mkv
+Moved file : [HorribleSubs] Strike Witches - 501-butai Hasshin Shimasu! - 07 [360p].mkv
+Moved file : [HorribleSubs] Strike Witches - 501-butai Hasshin Shimasu! - 08 [360p].mkv
+Moved file : [HorribleSubs] Strike Witches - 501-butai Hasshin Shimasu! - 09 [360p].mkv
+Moved file : [HorribleSubs] Strike Witches - 501-butai Hasshin Shimasu! - 10 [360p].mkv
+Moved file : [HorribleSubs] Strike Witches - 501-butai Hasshin Shimasu! - 11 [360p].mkv
+Moved file : [HorribleSubs] Strike Witches - 501-butai Hasshin Shimasu! - 12 [360p].mkv
+
+
+
+
+
+Making folder : Sword Art Online - Alicization
+Moving files to - Sword Art Online - Alicization : 
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 11 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 12 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 13 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 15 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 16 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 17 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 18 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 18.5 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 19 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 20 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 21 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 22 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 23 [480p].mkv
+Moved file : [HorribleSubs] Sword Art Online - Alicization - 24 [480p].mkv
+
+
+
+
+
+Making folder : Tate no Yuusha no Nariagari
+Moving files to - Tate no Yuusha no Nariagari : 
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 04 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 05 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 06 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 07 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 08 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 09 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 10 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 11 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 12 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 13 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 14 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 15 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 16 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 17 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 18 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 19 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 20 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 21 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 22 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 23 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 24 [480p].mkv
+Moved file : [HorribleSubs] Tate no Yuusha no Nariagari - 25 [480p].mkv
+
+
+
+
+
+Making folder : Tejina-senpai
+Moving files to - Tejina-senpai : 
+Moved file : [HorribleSubs] Tejina-senpai - 01 [480p].mkv
+Moved file : [HorribleSubs] Tejina-senpai - 02 [480p].mkv
+Moved file : [HorribleSubs] Tejina-senpai - 03 [480p].mkv
+Moved file : [HorribleSubs] Tejina-senpai - 04 [480p].mkv
+
+
+
+
+
+Making folder : Tensei Shitara Slime Datta Ken
+Moving files to - Tensei Shitara Slime Datta Ken : 
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken - 13 [480p].mkv
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken - 14 [480p].mkv
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken - 15 [480p].mkv
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken - 16 [480p].mkv
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken - 18 [480p].mkv
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken - 19 [480p].mkv
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken - 20 [480p].mkv
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken - 21 [480p].mkv
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken - 22 [480p].mkv
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken - 23 [480p].mkv
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken - 24 [480p].mkv
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken - 24.5 [480p].mkv
+Moved file : [HorribleSubs] Tensei Shitara Slime Datta Ken OAD - 02 [480p].mkv
+
+
+
+
+
+Making folder : Tensei Shitara Slime Datta Ken OAD
+Moving files to - Tensei Shitara Slime Datta Ken OAD : 
+Cannot move file : [HorribleSubs] Tensei Shitara Slime Datta Ken OAD - 02 [480p].mkv
+
+
+
+
+
+Making folder : Toaru Kagaku no Accelerator
+Moving files to - Toaru Kagaku no Accelerator : 
+Moved file : [HorribleSubs] Toaru Kagaku no Accelerator - 01 [480p].mkv
+Moved file : [HorribleSubs] Toaru Kagaku no Accelerator - 02 [480p].mkv
+
+
+
+
+
+Making folder : Tokyo Ghoul re
+Moving files to - Tokyo Ghoul re : 
+Moved file : [HorribleSubs] Tokyo Ghoul re - 21 [480p].mkv
+Moved file : [HorribleSubs] Tokyo Ghoul re - 23 [480p].mkv
+Moved file : [HorribleSubs] Tokyo Ghoul re - 24 [480p].mkv
+
+
+
+
+
+Making folder : Tonari no Kyuuketsuki-san
+Moving files to - Tonari no Kyuuketsuki-san : 
+Moved file : [HorribleSubs] Tonari no Kyuuketsuki-san - 03 [480p].mkv
+Moved file : [HorribleSubs] Tonari no Kyuuketsuki-san - 12 [480p].mkv
+
+
+
+
+
+Making folder : UchiMusume
+Moving files to - UchiMusume : 
+Moved file : [HorribleSubs] UchiMusume - 01 [480p].mkv
+Moved file : [HorribleSubs] UchiMusume - 02 [480p].mkv
+Moved file : [HorribleSubs] UchiMusume - 03 [480p].mkv
+
+
+
+
+
+Making folder : Ueno-san wa Bukiyou
+Moving files to - Ueno-san wa Bukiyou : 
+Moved file : [HorribleSubs] Ueno-san wa Bukiyou - 02 [480p].mkv
+Moved file : [HorribleSubs] Ueno-san wa Bukiyou - 03 [480p].mkv
+Moved file : [HorribleSubs] Ueno-san wa Bukiyou - 04 [480p].mkv
+Moved file : [HorribleSubs] Ueno-san wa Bukiyou - 05 [480p].mkv
+Moved file : [HorribleSubs] Ueno-san wa Bukiyou - 06 [480p].mkv
+Moved file : [HorribleSubs] Ueno-san wa Bukiyou - 07 [480p].mkv
+Moved file : [HorribleSubs] Ueno-san wa Bukiyou - 08 [480p].mkv
+Moved file : [HorribleSubs] Ueno-san wa Bukiyou - 09 [480p].mkv
+Moved file : [HorribleSubs] Ueno-san wa Bukiyou - 10 [480p].mkv
+Moved file : [HorribleSubs] Ueno-san wa Bukiyou - 11 [480p].mkv
+Moved file : [HorribleSubs] Ueno-san wa Bukiyou - 12 [480p].mkv
+
+
+
+
+
+Making folder : Ulysses - Jeanne d'Arc to Renkin no Kishi
+Moving files to - Ulysses - Jeanne d'Arc to Renkin no Kishi : 
+Moved file : [HorribleSubs] Ulysses - Jeanne d'Arc to Renkin no Kishi - 03 [480p].mkv
+Moved file : [HorribleSubs] Ulysses - Jeanne d'Arc to Renkin no Kishi - 10 [480p].mkv
+Moved file : [HorribleSubs] Ulysses - Jeanne d'Arc to Renkin no Kishi - 11 [480p].mkv
+Moved file : [HorribleSubs] Ulysses - Jeanne d'Arc to Renkin no Kishi - 12 [480p].mkv
+
+
+
+
+
+Making folder : Vinland Saga
+Moving files to - Vinland Saga : 
+Moved file : [HorribleSubs] Vinland Saga - 01 [480p].mkv
+Moved file : [HorribleSubs] Vinland Saga - 02 [480p].mkv
+Moved file : [HorribleSubs] Vinland Saga - 03 [480p].mkv
+
+
+
+
+
+Making folder : Watashi ni Tenshi ga Maiorita!
+Moving files to - Watashi ni Tenshi ga Maiorita! : 
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 01 [480p].mkv
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 02 [480p].mkv
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 03 [480p].mkv
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 04 [480p].mkv
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 05 [480p].mkv
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 06 [480p].mkv
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 07 [480p].mkv
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 08 [480p].mkv
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 09 [480p].mkv
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 10 [480p].mkv
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 11 [480p].mkv
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 12 [480p].mkv
+Moved file : [HorribleSubs] Watashi ni Tenshi ga Maiorita! - 13 [480p].mkv
+
+
+
+
+
+Making folder : Yagate Kimi ni Naru
+Moving files to - Yagate Kimi ni Naru : 
+Moved file : [HorribleSubs] Yagate Kimi ni Naru - 03 [480p].mkv
+
+
+
+
+
+Making folder : Yatogame-chan Kansatsu Nikki
+Moving files to - Yatogame-chan Kansatsu Nikki : 
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki - 01 [480p].mkv
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki - 02 [480p].mkv
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki - 03 [480p].mkv
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki - 04 [480p].mkv
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki - 05 [480p].mkv
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki - 06 [480p].mkv
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki - 07 [480p].mkv
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki - 08 [480p].mkv
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki - 09 [480p].mkv
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki - 10 [480p].mkv
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki - 11 [480p].mkv
+Moved file : [HorribleSubs] Yatogame-chan Kansatsu Nikki - 12 [480p].mkv
+
+
+
+
+
+Making folder : Zombieland Saga
+Moving files to - Zombieland Saga : 
+Moved file : [HorribleSubs] Zombieland Saga - 03 [480p].mkv
+Moved file : [HorribleSubs] Zombieland Saga - 04 [480p].mkv
+Moved file : [HorribleSubs] Zombieland Saga - 10 [480p].mkv
+Moved file : [HorribleSubs] Zombieland Saga - 11 [480p].mkv
+Moved file : [HorribleSubs] Zombieland Saga - 12 [480p].mkv
+
+-------Process completed successfullty-------

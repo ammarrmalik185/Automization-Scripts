@@ -1,0 +1,102 @@
+Log date and time : 2019-10-14 19:27:47.755559
+Source Folder : E:\Animes\Watched Random Episodes
+Save Folder   : E:\Animes\Sorted Animes
+Methord Used  : Algorithums\horriable subs algo.txt
+
+-------Process started------- :
+
+
+Moving from - E:\Animes\Watched Random Episodes : 
+Moving files to - Ahiru no Sora : 
+Moved file : [HorribleSubs] Ahiru no Sora - 02 [720p].mkv
+
+
+
+
+
+Making folder : Assassins Pride
+Moving files to - Assassins Pride : 
+Moved file : [HorribleSubs] Assassins Pride - 01 [720p].mkv
+
+Moving files to - Azur Lane : 
+Moved file : [HorribleSubs] Azur Lane - 02 [720p].mkv
+
+
+
+
+
+Making folder : Babylon
+Moving files to - Babylon : 
+Moved file : [HorribleSubs] Babylon - 01 [720p].mkv
+Moved file : [HorribleSubs] Fate Grand Order - Absolute Demonic Front Babylonia - 02 [720p].mkv
+
+
+
+
+
+Making folder : Boku no Hero Academia
+Moving files to - Boku no Hero Academia : 
+Moved file : [HorribleSubs] Boku no Hero Academia - 64 [720p].mkv
+
+Moving files to - Bokutachi wa Benkyou ga Dekinai S2 : 
+Moved file : [HorribleSubs] Bokutachi wa Benkyou ga Dekinai S2 - 02 [720p].mkv
+
+Moving files to - Choyoyu : 
+Moved file : [HorribleSubs] Choyoyu - 02 [720p].mkv
+
+Moving files to - Chuubyou Gekihatsu Boy : 
+Moved file : [HorribleSubs] Chuubyou Gekihatsu Boy - 02 [720p].mkv
+
+Moving files to - Dr. Stone : 
+Moved file : [HorribleSubs] Dr. Stone - 15 [720p].mkv
+
+
+
+
+
+Making folder : Enen no Shouboutai
+Moving files to - Enen no Shouboutai : 
+Moved file : [HorribleSubs] Enen no Shouboutai - 12 [720p].mkv
+
+Moving files to - Fate Grand Order - Absolute Demonic Front Babylonia : 
+Cannot move file : [HorribleSubs] Fate Grand Order - Absolute Demonic Front Babylonia - 02 [720p].mkv
+
+Moving files to - Mairimashita! Iruma-kun : 
+Moved file : [HorribleSubs] Mairimashita! Iruma-kun - 02 [720p].mkv
+
+Moving files to - Null Peta : 
+Moved file : [HorribleSubs] Null Peta - 02 [720p].mkv
+
+Moving files to - One Piece : 
+Moved file : [HorribleSubs] One Piece - 906 [720p].mkv
+
+
+
+
+
+Making folder : Stand My Heroes - Piece of Truth
+Moving files to - Stand My Heroes - Piece of Truth : 
+Moved file : [HorribleSubs] Stand My Heroes - Piece of Truth - 01 [720p].mkv
+
+
+
+
+
+Making folder : Sword Art Online - Alicization - War of Underworld
+Moving files to - Sword Art Online - Alicization - War of Underworld : 
+Moved file : [HorribleSubs] Sword Art Online - Alicization - War of Underworld - 00 [720p].mkv
+
+Moving files to - Val x Love : 
+Moved file : [HorribleSubs] Val x Love - 02 [720p].mkv
+
+
+
+
+
+Making folder : Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!
+Moving files to - Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! : 
+Moved file : [HorribleSubs] Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! - 01 [720p].mkv
+
+ Total 18 files moved
+ Unable to move 1 files
+-------Process completed successfullty-------

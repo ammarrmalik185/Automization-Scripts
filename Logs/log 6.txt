@@ -1,0 +1,113 @@
+Log date and time : 2019-08-11 18:53:12.028581
+Source Folder : E:\Animes\Watched Random Episodes
+Save Folder   : E:\Animes\Sorted Animes
+Methord Used  : C:\Users\ParadoX\PycharmProjects\Auto Orgainzer\Algorithums\horriable subs algo.txt
+
+-------Process started------- :
+
+
+Moving from - E:\Animes\Watched Random Episodes : 
+Moving files to - Araburu Kisetsu no Otome-domo yo. : 
+Moved file : [HorribleSubs] Araburu Kisetsu no Otome-domo yo. - 05 [480p].mkv
+
+Moving files to - Arifureta Shokugyou de Sekai Saikyou : 
+Moved file : [HorribleSubs] Arifureta Shokugyou de Sekai Saikyou - 05 [360p].mkv
+
+Moving files to - Black Clover : 
+Moved file : [HorribleSubs] Black Clover - 95 [480p].mkv
+
+Moving files to - Cop Craft : 
+Moved file : [HorribleSubs] Cop Craft - 05 [360p].mkv
+
+Moving files to - Dr. Stone : 
+Moved file : [HorribleSubs] Dr. Stone - 05 [480p].mkv
+Moved file : [HorribleSubs] Dr. Stone - 06 [480p].mkv
+
+Moving files to - Dumbbell Nan Kilo Moteru : 
+Moved file : [HorribleSubs] Dumbbell Nan Kilo Moteru - 06 [360p].mkv
+
+Moving files to - Enen no Shouboutai : 
+Moved file : [HorribleSubs] Enen no Shouboutai - 04 [480p].mkv
+Moved file : [HorribleSubs] Enen no Shouboutai - 05 [480p].mkv
+
+Moving files to - Ensemble Stars! : 
+Moved file : [HorribleSubs] Ensemble Stars! - 05 [360p].mkv
+
+Moving files to - Fairy Tail Final Season : 
+Moved file : [HorribleSubs] Fairy Tail Final Season - 320 [480p].mkv
+
+Moving files to - Fruits Basket (2019) : 
+Moved file : [HorribleSubs] Fruits Basket (2019) - 18 [480p].mkv
+
+Moving files to - Granbelm : 
+Moved file : [HorribleSubs] Granbelm - 05 [480p].mkv
+Moved file : [HorribleSubs] Granbelm - 06 [480p].mkv
+
+Moving files to - HenSuki : 
+Moved file : [HorribleSubs] HenSuki - 05 [360p].mkv
+
+Moving files to - Isekai Cheat Magician : 
+Moved file : [HorribleSubs] Isekai Cheat Magician - 05 [480p].mkv
+
+Moving files to - Joshikousei no Mudazukai : 
+Moved file : [HorribleSubs] Joshikousei no Mudazukai - 05 [480p].mkv
+
+Moving files to - Kanata no Astra : 
+Moved file : [HorribleSubs] Kanata no Astra - 06 [360p].mkv
+
+Moving files to - Katsute Kami Datta Kemono-tachi e : 
+Moved file : [HorribleSubs] Katsute Kami Datta Kemono-tachi e - 06 [480p].mkv
+
+Moving files to - Kimetsu no Yaiba : 
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 18 [480p].mkv
+Moved file : [HorribleSubs] Kimetsu no Yaiba - 19 [480p].mkv
+
+Moving files to - Kochoki - Wakaki Nobunaga : 
+Moved file : [HorribleSubs] Kochoki - Wakaki Nobunaga - 05 [360p].mkv
+
+Moving files to - Kono Yo no Hate de Koi wo Utau Shoujo YU-NO : 
+Moved file : [HorribleSubs] Kono Yo no Hate de Koi wo Utau Shoujo YU-NO - 18 [480p].mkv
+
+Moving files to - Lord El-Melloi II Case Files : 
+Moved file : [HorribleSubs] Lord El-Melloi II Case Files - 05 [480p].mkv
+Moved file : [HorribleSubs] Lord El-Melloi II Case Files - 06 [480p].mkv
+
+Moving files to - Machikado Mazoku : 
+Moved file : [HorribleSubs] Machikado Mazoku - 04 [480p].mkv
+
+Moving files to - Maou-sama, Retry! : 
+Moved file : [HorribleSubs] Maou-sama, Retry! - 06 [360p].mkv
+
+Moving files to - Nakanohito Genome [Jikkyouchuu] : 
+Moved file : [HorribleSubs] Nakanohito Genome [Jikkyouchuu] - 05 [360p].mkv
+
+Moving files to - Okaa-san Online : 
+Moved file : [HorribleSubs] Okaa-san Online - 04 [480p].mkv
+Moved file : [HorribleSubs] Okaa-san Online - 05 [480p].mkv
+
+Moving files to - One Piece : 
+Moved file : [HorribleSubs] One Piece - 896 [480p].mkv
+
+Moving files to - Re Stage! Dream Days : 
+Moved file : [HorribleSubs] Re Stage! Dream Days - 05 [480p].mkv
+
+Moving files to - Sounan desu ka : 
+Moved file : [HorribleSubs] Sounan desu ka - 06 [480p].mkv
+
+Moving files to - Tejina-senpai : 
+Moved file : [HorribleSubs] Tejina-senpai - 06 [480p].mkv
+
+Moving files to - Toaru Kagaku no Accelerator : 
+Moved file : [HorribleSubs] Toaru Kagaku no Accelerator - 04 [480p].mkv
+Moved file : [HorribleSubs] Toaru Kagaku no Accelerator - 05 [480p].mkv
+
+Moving files to - UchiMusume : 
+Moved file : [HorribleSubs] UchiMusume - 05 [480p].mkv
+Moved file : [HorribleSubs] UchiMusume - 06 [480p].mkv
+
+Moving files to - Vinland Saga : 
+Moved file : [HorribleSubs] Vinland Saga - 05 [480p].mkv
+
+ Total 39 files moved
+ Unable to move 0 files
+-------Process completed successfullty-------

@@ -1,0 +1,21 @@
+Log date and time : 2019-07-30 22:30:01.926228
+
+-------Process started------- :
+
+
+Moving from - E:\Animes\Watched Random Episodes : 
+Moving files to - Black Clover : 
+Moved file : [HorribleSubs] Black Clover - 94 [480p].mkv
+
+Moving files to - Cop Craft : 
+Moved file : [HorribleSubs] Cop Craft - 04 [360p].mkv
+
+Moving files to - Sounan desu ka : 
+Moved file : [HorribleSubs] Sounan desu ka - 05 [480p].mkv
+
+Moving files to - Tejina-senpai : 
+Moved file : [HorribleSubs] Tejina-senpai - 05 [480p].mkv
+
+ Total 4 files moved
+ Unable to move 0 files
+-------Process completed successfullty-------
